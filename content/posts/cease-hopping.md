@@ -6,7 +6,7 @@ batch: "20170902-1"
 ibu: "50"
 srm: "N/A"
 abv: "6.3%"
-img: "/content/images/20171103_222211.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/20171103_222211.jpg"
 ---
 
 ### Vandbehandling:
@@ -47,7 +47,7 @@ TG: 1.022
 
 En Halvdel flasket og en halvdel puttet på fad
 
-![CEASE Hopping](/content/images/20171103_222211.jpg)
-![CEASE Hopping](/content/images/20171015_170741.jpg)
-![CEASE Hopping](/content/images/IMG_20171015_173404_259.jpg)
-![CEASE Hopping](/content/images/20171125_164628.jpg)
+![CEASE Hopping](//tgnr.dk/tegnerbryggers/content/images/20171103_222211.jpg)
+![CEASE Hopping](//tgnr.dk/tegnerbryggers/content/images/20171015_170741.jpg)
+![CEASE Hopping](//tgnr.dk/tegnerbryggers/content/images/IMG_20171015_173404_259.jpg)
+![CEASE Hopping](//tgnr.dk/tegnerbryggers/content/images/20171125_164628.jpg)

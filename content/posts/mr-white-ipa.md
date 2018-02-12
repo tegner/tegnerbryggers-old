@@ -5,7 +5,7 @@ bottled: "N/A"
 ibu: "45"
 srm: "N/A"
 abv: "5.5%"
-img: "/content/images/20170423_164620.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/20170507_074833.jpg"
 ---
 
 ### Vandbehandling:
@@ -38,14 +38,7 @@ img: "/content/images/20170423_164620.jpg"
 63 g. Mosaic
 61 g. Citra
 
-![Mr. White IPA](/content/images/20170423_164620.jpg)
-![Mr. White IPA](/content/images/20170423_164940.jpg)
-![Mr. White IPA](/content/images/20170423_170907.jpg)
-![Mr. White IPA](/content/images/20170507_074833.jpg)
-
-
-
-* [What is Markdown?](http://whatismarkdown.com/)
-* [Mastering Markdown, a GitHub guide](https://guides.github.com/features/mastering-markdown/)
-* [wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown#Example)
-* [masteringmarkdown.com](http://masteringmarkdown.com/)
+![Mr. White IPA](//tgnr.dk/tegnerbryggers/content/images/20170423_164620.jpg)
+![Mr. White IPA](//tgnr.dk/tegnerbryggers/content/images/20170423_164940.jpg)
+![Mr. White IPA](//tgnr.dk/tegnerbryggers/content/images/20170423_170907.jpg)
+![Mr. White IPA](//tgnr.dk/tegnerbryggers/content/images/20170507_074833.jpg)

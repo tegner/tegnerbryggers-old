@@ -1,0 +1,15 @@
+.biglink {
+  align-items: flex-end;
+  background: #888;
+  display: flex;
+  height: 105px;
+  margin-bottom: 10px;
+}
+
+.biglink-content {
+  background: #fff;
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 45%;
+}

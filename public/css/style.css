@@ -27,9 +27,6 @@ img {
   max-width: 100%;
 }
 
-
-@import 'menu.css';
-
 .beer-data {
   background: #efefef;
   padding: 20px;
@@ -72,18 +69,13 @@ img {
   }
 }
 
-.biglink {
-  align-items: flex-end;
-  background: #888;
-  display: flex;
-  height: 105px;
-  margin-bottom: 10px;
+.list-head {
+  margin-bottom: 2px;
 }
 
-.biglink-content {
-  background: #fff;
-  display: block;
-  margin-bottom: 10px;
-  padding: 10px;
-  width: 45%;
+.home-content {
+  padding-bottom: 35px;
 }
+
+@import 'menu.css';
+@import 'biglink.css';

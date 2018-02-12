@@ -6,7 +6,7 @@ batch: "20170902-2a"
 ibu: "0"
 srm: "N/A"
 abv: "N/A"
-img: "/content/images/20171102_213908.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/20171102_213908.jpg"
 ---
 
 ### Malt:
@@ -23,5 +23,5 @@ img: "/content/images/20171102_213908.jpg"
 
 Tilsat masser af Ribs fra sommerhuset
 
-![Vildt Sure Ribs](/content/images/20171102_213908.jpg)
-![Vildt Sure Ribs](/content/images/20171125_121805.jpg)
+![Vildt Sure Ribs](//tgnr.dk/tegnerbryggers/content/images/20171102_213908.jpg)
+![Vildt Sure Ribs](//tgnr.dk/tegnerbryggers/content/images/20171125_121805.jpg)

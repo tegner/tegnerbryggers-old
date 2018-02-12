@@ -33,12 +33,15 @@ const BlogPost = ({ hasError, isLoading, page, posts }) => {
           </Head>
           <article>
             <h1>{page.node.title}</h1>
-            <div class='beer-data'>
-              <div><span class='label'>Brygget</span> {page.node.date} </div>
-              <div><span class='label'>Flasket</span> {page.node.bottled}</div>
-              <div><span class='label'>IBU</span> {page.node.ibu}</div>
-              <div><span class='label'>SRM</span> {page.node.srm}</div>
-              <div><span class='label'>ABV</span> {page.node.abv}</div>
+            <div>
+              <div className='beer-data'>
+                <div><span className='label'>Brygget</span> {page.node.date} </div>
+                <div><span className='label'>Flasket</span> {page.node.bottled}</div>
+                <div><span className='label'>IBU</span> {page.node.ibu}</div>
+                <div><span className='label'>SRM</span> {page.node.srm}</div>
+                <div><span className='label'>ABV</span> {page.node.abv}</div>
+              </div>
+              <img src={page.node.img} />
             </div>
             <BodyRenderer>{page.node.body}</BodyRenderer>
           </article>

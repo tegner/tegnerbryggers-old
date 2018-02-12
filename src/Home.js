@@ -21,8 +21,11 @@ const Home = ({ isLoading, posts }) => (
             <title>Tegners Bryggers</title>
             <meta name='description' content='Tegners Bryggers - Hjemmebryggeri, log over bryg' />
           </Head>
-          <h1>Tegners Bryggers</h1>
-
+          <div className='home-content'>
+            <h1>Tegners Bryggers</h1>
+            <p>Hjemmebryggeri på Amager, med fokus på at brygge velsmagende øl</p>
+          </div>
+          <h3 className='list-head'>De 5 seneste bryg</h3>
           { posts &&
               posts.node &&
               posts.node.list.map(post => (
@@ -35,7 +38,7 @@ const Home = ({ isLoading, posts }) => (
 )
 
 const HomeContainer = createContainer(Home, props => ({
-  posts: query({ path: 'posts', limit: 7 })
+  posts: query({ path: 'posts', limit: 5 })
 }))
 
 export { HomeContainer }

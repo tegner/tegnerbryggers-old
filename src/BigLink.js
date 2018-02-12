@@ -4,7 +4,7 @@ import { Router, Route, browserHistory, Link } from 'react-router'
 
 const BigLink = ({ props }) => (
 
-  <Link className='biglink' to={`/blog/${props.id}/`} style={{'background-image': 'url(' + props.img + ')'}}>
+  <Link className='biglink' to={`/blog/${props.id}/`} style={{'backgroundImage': 'url(' + props.img + ')'}}>
     <div className='biglink-content'>
       {props.title || props.id}
     </div>

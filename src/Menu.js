@@ -52,7 +52,7 @@ const Menu = ({ isLoading, posts }) => (
 )
 
 const MenuContainer = createContainer(Menu, props => ({
-  posts: query({ path: 'posts', limit: 12 }) //, after: props.params.after })
+  posts: query({ path: 'posts', limit: 16 }) //, after: props.params.after })
 }))
 
 export { MenuContainer }

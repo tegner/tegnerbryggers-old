@@ -5,7 +5,7 @@ bottled: "N/A"
 ibu: "60"
 srm: "1"
 abv: "4%"
-img: "/content/images/20170721_142304.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/20170721_142304.jpg"
 ---
 
 Oprindeligt brygget til polterabend
@@ -41,11 +41,11 @@ SMaSH
 39 g. Mosaic
 69 g. Mosaic
 
-![Light Afternoon Shower](/content/images/20170721_142304.jpg)
-![Light Afternoon Shower](/content/images/20170717_170106.jpg)
-![Light Afternoon Shower](/content/images/20170729_142223.jpg)
-![Light Afternoon Shower](/content/images/20170729_142234.jpg)
-![Light Afternoon Shower](/content/images/20170810_133510.jpg)
-![Light Afternoon Shower](/content/images/aviary-image-1501325827610.jpg)
-![Light Afternoon Shower](/content/images/IMG_20170711_220616_736.jpg)
-![Light Afternoon Shower](/content/images/IMG_20170711_222024_954.jpg)
+![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/20170721_142304.jpg)
+![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/20170717_170106.jpg)
+![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/20170729_142223.jpg)
+![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/20170729_142234.jpg)
+![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/20170810_133510.jpg)
+![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/aviary-image-1501325827610.jpg)
+![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/IMG_20170711_220616_736.jpg)
+![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/IMG_20170711_222024_954.jpg)

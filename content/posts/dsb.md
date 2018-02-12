@@ -6,7 +6,7 @@ batch: "20170413"
 ibu: "48"
 srm: "35"
 abv: "5%"
-img: "/content/images/20170528_144532.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/20170528_144532.jpg"
 ---
 
 Brygget med rester fra Mr. White IPA tilsat crystal malt
@@ -32,6 +32,6 @@ Brygget med rester fra Mr. White IPA tilsat crystal malt
 36 g. Magnum
 
 
-![Dark Strong Bitter](/content/images/20170717_170119.jpg)
-![Dark Strong Bitter](/content/images/20170721_155450.jpg)
-![Dark Strong Bitter](/content/images/20170528_144532.jpg)
+![Dark Strong Bitter](//tgnr.dk/tegnerbryggers/content/images/20170717_170119.jpg)
+![Dark Strong Bitter](//tgnr.dk/tegnerbryggers/content/images/20170721_155450.jpg)
+![Dark Strong Bitter](//tgnr.dk/tegnerbryggers/content/images/20170528_144532.jpg)
