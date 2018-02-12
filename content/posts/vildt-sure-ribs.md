@@ -6,7 +6,7 @@ batch: "20170902-2a"
 ibu: "0"
 srm: "N/A"
 abv: "N/A"
-img: "//tgnr.dk/tegnerbryggers/content/images/20171102_213908.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/vildtsureribs.jpg"
 ---
 
 ### Malt:

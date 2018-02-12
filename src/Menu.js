@@ -9,15 +9,19 @@ import {
   textRenderer
 } from '@phenomic/preset-react-app/lib/client'
 
-const menuHandle = function (ev) {
-  ev.preventDefault()
-  ev.stopPropagation()
-  if (ev.target !== null) {
-    var parent = ev.target.parentNode
-    while (parent.classList === null || !parent.classList.contains('menu')) {
-      parent = parent.parentNode
+const MenuToggler = function (ev, obj) {
+  if (ev) {
+    ev.preventDefault()
+    ev.stopPropagation()
+  }
+
+  let menuElement = document.getElementById('menu')
+  if (menuElement !== null) {
+    if (obj && obj.onlyClose) {
+      menuElement.classList.remove('menu--opened')
+    } else {
+      menuElement.classList.toggle('menu--opened')
     }
-    parent.classList.toggle('menu--opened')
   }
 }
 
@@ -25,7 +29,7 @@ const Menu = ({ isLoading, posts }) => (
   <div>
     {isLoading && 'Loading...'}
     {!isLoading && (
-    <nav className='menu'>
+    <nav id='menu' className='menu'>
       <ul className='menu-list'>
         <li className='menu-item'>
           <a href='/'>Forsiden</a>
@@ -38,9 +42,12 @@ const Menu = ({ isLoading, posts }) => (
               <Link to={`/blog/${post.id}/`}>{post.title || post.id}</Link>
             </li>
           ))}
+        <li className='menu-item'>
+          <a href='/postlist/'>Alle bryg</a>
+        </li>
       </ul>
-      <div className='menu-handle' onClick={menuHandle.bind(this)}>
-        <svg onClick={menuHandle.bind(this)} id='Layer_1' data-name='Layer 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 137.28 226.82'>
+      <div className='menu-handle' onClick={MenuToggler.bind(this)}>
+        <svg onClick={MenuToggler.bind(this)} id='Layer_1' data-name='Layer 1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 137.28 226.82'>
           <title>angle</title>
           <polygon points='23.87 226.82 0 202.96 89.55 113.41 0 23.87 23.87 0 137.28 113.41 23.87 226.82' style={{fill: '#231f20'}} />
         </svg>
@@ -52,7 +59,7 @@ const Menu = ({ isLoading, posts }) => (
 )
 
 const MenuContainer = createContainer(Menu, props => ({
-  posts: query({ path: 'posts', limit: 16 }) //, after: props.params.after })
+  posts: query({ path: 'posts', limit: 12 })
 }))
 
-export { MenuContainer }
+export { MenuContainer, MenuToggler }

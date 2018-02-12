@@ -5,11 +5,13 @@ bottled: "N/A"
 ibu: "60"
 srm: "1"
 abv: "4%"
-img: "//tgnr.dk/tegnerbryggers/content/images/20170721_142304.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/lightafternoonshower.jpg"
 ---
 
-Oprindeligt brygget til polterabend
-SMaSH
+Tænkt som en SMaSH Session IPA med Maris Otter og Mosaic, dog er der brugt en lille smule magnum som bitterhumle
+
+Oprindeligt brygget i anledning af Christians polterabend
+
 
 ### Vandbehandling:
 

@@ -6,7 +6,7 @@ batch: "20180120"
 ibu: "24"
 srm: "N/A"
 abv: "4.9%"
-img: "//tgnr.dk/tegnerbryggers/content/images/20180211_201019.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/itsafugazi.jpg"
 ---
 
 ### Vandbehandling

@@ -12,7 +12,7 @@ const Layout = ({ children }) => (
       <meta name='viewport' content='width=device-width, initial-scale=1' />
       <link href='./public/favicon.png' rel='icon' type='image/png' />
     </Head>
-    <header>
+    <header className='header'>
       <a href='/' className='header-logo'>
         <Logo />
       </a>

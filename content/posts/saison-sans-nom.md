@@ -6,7 +6,7 @@ batch: "20171125-1"
 ibu: "12"
 srm: "N/A"
 abv: "4.7%"
-img: "//tgnr.dk/tegnerbryggers/content/images/20180127_100634.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/saisonsansnom.jpg"
 ---
 
 ### Malt

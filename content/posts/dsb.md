@@ -6,7 +6,7 @@ batch: "20170413"
 ibu: "48"
 srm: "35"
 abv: "5%"
-img: "//tgnr.dk/tegnerbryggers/content/images/20170528_144532.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/dsb.jpg"
 ---
 
 Brygget med rester fra Mr. White IPA tilsat crystal malt

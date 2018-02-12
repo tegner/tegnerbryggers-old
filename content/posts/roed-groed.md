@@ -6,7 +6,7 @@ batch: "20170708-2b"
 ibu: "40"
 srm: "N/A"
 abv: "7.7%"
-img: "//tgnr.dk/tegnerbryggers/content/images/20170827_191436.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/roedgroed.jpg"
 ---
 
 ### Vandbehandling:

@@ -5,7 +5,7 @@ bottled: "N/A"
 ibu: "45"
 srm: "N/A"
 abv: "5.5%"
-img: "//tgnr.dk/tegnerbryggers/content/images/20170507_074833.jpg"
+img: "//tgnr.dk/tegnerbryggers/content/images/mrwhite.jpg"
 ---
 
 ### Vandbehandling:

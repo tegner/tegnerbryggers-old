@@ -9,15 +9,14 @@ import {
 } from '@phenomic/preset-react-app/lib/client'
 import { Layout } from './Layout'
 import { PageError } from './PageError'
-
-const NextPost = ({ postList }) => {
-  return <div />
-}
+import { MenuToggler } from './Menu'
 
 const BlogPost = ({ hasError, isLoading, page, posts }) => {
   if (hasError) {
     return <PageError error={page.error} />
   }
+
+  MenuToggler(null, { 'onlyClose': true })
 
   return <Layout>
     {isLoading && 'Loading...'}
