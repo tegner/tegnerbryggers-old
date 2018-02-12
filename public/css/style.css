@@ -1,0 +1,89 @@
+html,
+body {
+  background: #eee;
+  color: #000;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+header,
+h1,
+h2,
+h3 {
+  font-family: Georgia, serif;
+}
+
+footer {
+  padding: 40px 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+@import 'menu.css';
+
+.beer-data {
+  background: #efefef;
+  padding: 20px;
+}
+
+.label {
+  display: inline-block;
+  width: 75px;
+}
+
+.header-logo {
+  display: block;
+  margin: 10px auto;
+  width: 150px;
+}
+
+.footer-logo {
+  display: block;
+  margin: auto;
+  width: 150px;
+}
+
+.page-container {
+  position: relative;
+
+  background: #fff;
+  margin: 0 auto;
+  overflow: hidden;
+  max-width: 750px;
+}
+
+.blog-content {
+  background: #fff;
+  padding: 0 20px;
+}
+
+@media (min-width: 650px)  {
+  .blog-content {
+    padding: 0 50px;
+  }
+}
+
+.biglink {
+  align-items: flex-end;
+  background: #888;
+  display: flex;
+  height: 105px;
+  margin-bottom: 10px;
+}
+
+.biglink-content {
+  background: #fff;
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 45%;
+}

@@ -1,0 +1,54 @@
+import React from 'react'
+import Head from 'react-helmet'
+import { Router, Route, browserHistory, Link } from 'react-router'
+import {
+  createContainer,
+  query,
+  BodyRenderer,
+  textRenderer
+} from '@phenomic/preset-react-app/lib/client'
+import { Layout } from './Layout'
+import { PageError } from './PageError'
+
+const NextPost = ({ postList }) => {
+  return <div />
+}
+
+const BlogPost = ({ hasError, isLoading, page, posts }) => {
+  if (hasError) {
+    return <PageError error={page.error} />
+  }
+
+  return <Layout>
+    {isLoading && 'Loading...'}
+    {!isLoading &&
+      page.node && (
+        <div>
+          <Head>
+            <title>{page.node.title}</title>
+            <meta
+              name='description'
+              content={textRenderer(page.node.body).slice(0, 150) + '…'}
+          />
+          </Head>
+          <article>
+            <h1>{page.node.title}</h1>
+            <div class='beer-data'>
+              <div><span class='label'>Brygget</span> {page.node.date} </div>
+              <div><span class='label'>Flasket</span> {page.node.bottled}</div>
+              <div><span class='label'>IBU</span> {page.node.ibu}</div>
+              <div><span class='label'>SRM</span> {page.node.srm}</div>
+              <div><span class='label'>ABV</span> {page.node.abv}</div>
+            </div>
+            <BodyRenderer>{page.node.body}</BodyRenderer>
+          </article>
+        </div>
+      )}
+  </Layout>
+}
+
+const BlogPostContainer = createContainer(BlogPost, props => ({
+  page: query({ path: 'posts', id: props.params.splat })
+}))
+
+export { BlogPostContainer }
