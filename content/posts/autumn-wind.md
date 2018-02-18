@@ -14,8 +14,7 @@ Tilsat 200 gram brun farin ved kogning
 
 Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra Oakland Raiders digtet af samme navn
 
-
-***
+---
 
 * The Autumn Wind is a pirate
 * Blustering in from sea,
@@ -26,22 +25,17 @@ Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra O
 * With a silver hat about his head,
 * And a bristling black mustache.
 
-
-
-* He growls as he storms the country,
-* A villain big and bold.
-* And the trees all shake and quiver and quake,
-* As he robs them of their gold.
-
-
+- He growls as he storms the country,
+- A villain big and bold.
+- And the trees all shake and quiver and quake,
+- As he robs them of their gold.
 
 * The Autumn Wind is a Raider,
 * Pillaging just for fun.
 * He'll knock you 'round and upside down,
 * And laugh when he's conquered and won.
 
-***
-
+---
 
 ### Gær
 
@@ -59,5 +53,6 @@ Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra O
 krydderi blanding af stødt ingefær, kanel, kardemomme, allehånde, nelliker og stjerne anis
 Halv kanelstang
 
-
 ![Autumn wind](//tgnr.dk/tegnerbryggers/content/images/autumnwind.jpg)
+![Autumn wind](//tgnr.dk/tegnerbryggers/content/images/20180215_190257.jpg)
+![Autumn wind](//tgnr.dk/tegnerbryggers/content/images/20180215_190301.jpg)

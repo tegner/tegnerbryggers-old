@@ -2,7 +2,7 @@ html,
 body {
   background: #eee;
   color: #000;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -21,6 +21,14 @@ h3 {
 
 footer {
   padding: 40px 0;
+  max-width: 750px;
+}
+
+footer a {
+  color: #000;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-decoration: none;
 }
 
 img {
@@ -54,7 +62,7 @@ img {
 
 .footer-logo {
   display: block;
-  margin: auto;
+  margin: 20px auto;
   width: 150px;
 }
 
@@ -72,10 +80,16 @@ img {
   padding: 0 20px;
 }
 
-@media (min-width: 650px)  {
+@media (min-width: 650px) {
   .blog-content {
     padding: 0 50px;
   }
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .list-head {
@@ -84,6 +98,14 @@ img {
 
 .home-content {
   padding-bottom: 25px;
+}
+
+.ta-center {
+  text-align: center;
+}
+
+.mar--b {
+  margin-bottom: 10px;
 }
 
 @import 'menu.css';
