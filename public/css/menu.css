@@ -9,7 +9,7 @@
   display: flex;
   padding: 0 20px;
   transform: translateY(100%);
-  transition: transform 0.25s;
+  transition: transform 0.2s;
   width: 100%;
 }
 
@@ -18,7 +18,7 @@
 }
 
 .menu a {
-  color: #000;
+  color: #707;
   font-weight: bold;
   text-decoration: none;
 }
@@ -49,7 +49,7 @@
 .menu-handle svg {
   height: 30px;
   margin: auto;
-  transition: transform 0.25s;
+  transition: transform 0.2s;
 }
 
 .menu--opened .menu-handle svg {
@@ -78,7 +78,7 @@
     display: flex;
     padding: 60px;
     transform: translateY(-100%);
-    transition: transform 0.25s;
+    transition: transform 0.2s;
     width: auto;
   }
 
