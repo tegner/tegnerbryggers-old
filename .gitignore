@@ -27,5 +27,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# project specific folders
 images
 dist
