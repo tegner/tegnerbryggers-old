@@ -6,7 +6,7 @@ batch: "20171125-1"
 ibu: "12"
 srm: "N/A"
 abv: "4.7%"
-img: "//tgnr.dk/tegnerbryggers/content/images/saisonsansnom.jpg"
+img: "//tegnerbryggers.beer/images/saisonsansnom.jpg"
 ---
 
 ### Malt
@@ -32,7 +32,7 @@ img: "//tgnr.dk/tegnerbryggers/content/images/saisonsansnom.jpg"
 1 min.
 10 gram Tettnang
 
-![Saison Sans Nom](//tgnr.dk/tegnerbryggers/content/images/20180127_100634.jpg)
-![Saison Sans Nom](//tgnr.dk/tegnerbryggers/content/images/20180127_173612.jpg)
-![Saison Sans Nom](//tgnr.dk/tegnerbryggers/content/images/20180211_200949.jpg)
-![Saison Sans Nom](//tgnr.dk/tegnerbryggers/content/images/20180211_200939.jpg)
+![Saison Sans Nom](//tegnerbryggers.beer/images/20180127_100634.jpg)
+![Saison Sans Nom](//tegnerbryggers.beer/images/20180127_173612.jpg)
+![Saison Sans Nom](//tegnerbryggers.beer/images/20180211_200949.jpg)
+![Saison Sans Nom](//tegnerbryggers.beer/images/20180211_200939.jpg)

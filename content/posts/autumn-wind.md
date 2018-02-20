@@ -6,7 +6,7 @@ batch: "20171014-1b"
 ibu: "23"
 srm: "N/A"
 abv: "4.2%"
-img: "//tgnr.dk/tegnerbryggers/content/images/autumnwind-smal.jpg"
+img: "//tegnerbryggers.beer/images/autumnwind-smal.jpg"
 ---
 
 Lavet på runoff fra brunt og brændt
@@ -53,6 +53,6 @@ Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra O
 krydderi blanding af stødt ingefær, kanel, kardemomme, allehånde, nelliker og stjerne anis
 Halv kanelstang
 
-![Autumn wind](//tgnr.dk/tegnerbryggers/content/images/autumnwind.jpg)
-![Autumn wind](//tgnr.dk/tegnerbryggers/content/images/20180215_190257.jpg)
-![Autumn wind](//tgnr.dk/tegnerbryggers/content/images/20180215_190301.jpg)
+![Autumn wind](//tegnerbryggers.beer/images/autumnwind.jpg)
+![Autumn wind](//tegnerbryggers.beer/images/20180215_190257.jpg)
+![Autumn wind](//tegnerbryggers.beer/images/20180215_190301.jpg)

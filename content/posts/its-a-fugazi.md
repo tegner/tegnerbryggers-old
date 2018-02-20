@@ -6,7 +6,7 @@ batch: "20180120"
 ibu: "24"
 srm: "N/A"
 abv: "4.9%"
-img: "//tgnr.dk/tegnerbryggers/content/images/itsafugazi.jpg"
+img: "//tegnerbryggers.beer/images/itsafugazi.jpg"
 ---
 
 ### Vandbehandling
@@ -37,8 +37,8 @@ First wort
 * 200 gram Zythos, 1 dag efter fermentering start, ligget i 3 dage
 * 200 gram Zythos, 4 dage efter fermentering start, ligget i 3 dage
 
-![It's a Fugazi](//tgnr.dk/tegnerbryggers/content/images/20180211_201019.jpg)
-![It's a Fugazi](//tgnr.dk/tegnerbryggers/content/images/20180211_201036.jpg)
-![It's a Fugazi](//tgnr.dk/tegnerbryggers/content/images/20180211_201048.jpg)
-![It's a Fugazi](//tgnr.dk/tegnerbryggers/content/images/20180211_201057.jpg)
-![It's a Fugazi](//tgnr.dk/tegnerbryggers/content/images/IMG_20180202_223615.jpg)
+![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201019.jpg)
+![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201036.jpg)
+![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201048.jpg)
+![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201057.jpg)
+![It's a Fugazi](//tegnerbryggers.beer/images/IMG_20180202_223615.jpg)

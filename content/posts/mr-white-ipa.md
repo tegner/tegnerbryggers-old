@@ -5,7 +5,7 @@ bottled: "N/A"
 ibu: "45"
 srm: "N/A"
 abv: "5.5%"
-img: "//tgnr.dk/tegnerbryggers/content/images/mrwhite.jpg"
+img: "//tegnerbryggers.beer/images/mrwhite.jpg"
 ---
 
 ### Vandbehandling:
@@ -38,7 +38,7 @@ img: "//tgnr.dk/tegnerbryggers/content/images/mrwhite.jpg"
 63 g. Mosaic
 61 g. Citra
 
-![Mr. White IPA](//tgnr.dk/tegnerbryggers/content/images/20170423_164620.jpg)
-![Mr. White IPA](//tgnr.dk/tegnerbryggers/content/images/20170423_164940.jpg)
-![Mr. White IPA](//tgnr.dk/tegnerbryggers/content/images/20170423_170907.jpg)
-![Mr. White IPA](//tgnr.dk/tegnerbryggers/content/images/20170507_074833.jpg)
+![Mr. White IPA](//tegnerbryggers.beer/images/20170423_164620.jpg)
+![Mr. White IPA](//tegnerbryggers.beer/images/20170423_164940.jpg)
+![Mr. White IPA](//tegnerbryggers.beer/images/20170423_170907.jpg)
+![Mr. White IPA](//tegnerbryggers.beer/images/20170507_074833.jpg)

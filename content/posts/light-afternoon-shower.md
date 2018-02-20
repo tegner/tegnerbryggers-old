@@ -5,13 +5,12 @@ bottled: "N/A"
 ibu: "60"
 srm: "1"
 abv: "4%"
-img: "//tgnr.dk/tegnerbryggers/content/images/lightafternoonshower.jpg"
+img: "//tegnerbryggers.beer/images/lightafternoonshower.jpg"
 ---
 
 Tænkt som en SMaSH Session IPA med Maris Otter og Mosaic, dog er der brugt en lille smule magnum som bitterhumle
 
 Oprindeligt brygget i anledning af Christians polterabend
-
 
 ### Vandbehandling:
 
@@ -43,11 +42,11 @@ Oprindeligt brygget i anledning af Christians polterabend
 39 g. Mosaic
 69 g. Mosaic
 
-![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/20170721_142304.jpg)
-![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/20170717_170106.jpg)
-![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/20170729_142223.jpg)
-![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/20170729_142234.jpg)
-![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/20170810_133510.jpg)
-![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/aviary-image-1501325827610.jpg)
-![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/IMG_20170711_220616_736.jpg)
-![Light Afternoon Shower](//tgnr.dk/tegnerbryggers/content/images/IMG_20170711_222024_954.jpg)
+![Light Afternoon Shower](//tegnerbryggers.beer/images/20170721_142304.jpg)
+![Light Afternoon Shower](//tegnerbryggers.beer/images/20170717_170106.jpg)
+![Light Afternoon Shower](//tegnerbryggers.beer/images/20170729_142223.jpg)
+![Light Afternoon Shower](//tegnerbryggers.beer/images/20170729_142234.jpg)
+![Light Afternoon Shower](//tegnerbryggers.beer/images/20170810_133510.jpg)
+![Light Afternoon Shower](//tegnerbryggers.beer/images/aviary-image-1501325827610.jpg)
+![Light Afternoon Shower](//tegnerbryggers.beer/images/IMG_20170711_220616_736.jpg)
+![Light Afternoon Shower](//tegnerbryggers.beer/images/IMG_20170711_222024_954.jpg)

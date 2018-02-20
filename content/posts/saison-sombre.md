@@ -6,7 +6,7 @@ batch: "20171126"
 ibu: "N/A"
 srm: "N/A"
 abv: "5%"
-img: "//tgnr.dk/tegnerbryggers/content/images/20170813_144227.jpg"
+img: "//tegnerbryggers.beer/images/20170813_144227.jpg"
 ---
 
 Lavet af diverse rester fra Saison Sans Nom og malt rester

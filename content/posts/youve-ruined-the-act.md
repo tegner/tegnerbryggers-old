@@ -6,7 +6,7 @@ batch: "20170708-2a"
 ibu: "40"
 srm: "N/A"
 abv: "7.7%"
-img: "//tgnr.dk/tegnerbryggers/content/images/youveruinedtheact.jpg"
+img: "//tegnerbryggers.beer/images/youveruinedtheact.jpg"
 ---
 
 ### Vandbehandling:
@@ -45,6 +45,6 @@ As GoB ruined the act*, by washing the color out of Franklin, making him a white
 
 * Arrested Development (S2, Ep18) "Righteous Brothers"
 
-![You've Ruined the act GoB](//tgnr.dk/tegnerbryggers/content/images/20170902_133356.jpg)
-![You've Ruined the act GoB](//tgnr.dk/tegnerbryggers/content/images/IMG_20170827_101639_922.jpg)
-![You've Ruined the act GoB](//tgnr.dk/tegnerbryggers/content/images/20170719_171735.jpg)
+![You've Ruined the act GoB](//tegnerbryggers.beer/images/20170902_133356.jpg)
+![You've Ruined the act GoB](//tegnerbryggers.beer/images/IMG_20170827_101639_922.jpg)
+![You've Ruined the act GoB](//tegnerbryggers.beer/images/20170719_171735.jpg)

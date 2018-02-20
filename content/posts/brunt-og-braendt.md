@@ -6,7 +6,7 @@ batch: "20171014-1a"
 ibu: "20"
 srm: "N/A"
 abv: "8.5%"
-img: "//tgnr.dk/tegnerbryggers/content/images/ogherlugter.jpg"
+img: "//tegnerbryggers.beer/images/ogherlugter.jpg"
 ---
 
 Julebryg 2017, brygget med tilsætninger i håb om at kunne skabe en duft af jul fra mandlerne og appelsinskallen.
@@ -38,5 +38,5 @@ Julebryg 2017, brygget med tilsætninger i håb om at kunne skabe en duft af jul
 Efter fermentering:
 2,5 dl Amaretto
 
-![brunt og brændt](//tgnr.dk/tegnerbryggers/content/images/20171124_190125.jpg)
-![brunt og brændt](//tgnr.dk/tegnerbryggers/content/images/aviary-image-1510937384856.jpg)
+![brunt og brændt](//tegnerbryggers.beer/images/20171124_190125.jpg)
+![brunt og brændt](//tegnerbryggers.beer/images/aviary-image-1510937384856.jpg)

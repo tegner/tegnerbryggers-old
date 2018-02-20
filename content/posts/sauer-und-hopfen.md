@@ -6,7 +6,7 @@ batch: "20170902-2b"
 ibu: "0"
 srm: "N/A"
 abv: "N/A"
-img: "//tgnr.dk/tegnerbryggers/content/images/20180127_230309.jpg"
+img: "//tegnerbryggers.beer/images/20180127_230309.jpg"
 ---
 
 ### Malt:
@@ -25,4 +25,4 @@ img: "//tgnr.dk/tegnerbryggers/content/images/20180127_230309.jpg"
 **Tørhumle**:
 79 g. Amarillo
 
-![Mr. White IPA](//tgnr.dk/tegnerbryggers/content/images/20180127_230309.jpg)
+![Mr. White IPA](//tegnerbryggers.beer/images/20180127_230309.jpg)
