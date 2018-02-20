@@ -4,7 +4,7 @@ date: "2017-07-08"
 bottled: "2017-07-22"
 batch: "20170708-2a"
 ibu: "40"
-srm: "N/A"
+srm: "9"
 abv: "7.7%"
 img: "//tegnerbryggers.beer/images/youveruinedtheact.jpg"
 ---
@@ -41,7 +41,7 @@ TG: 1.022
 Brygget delt i to.
 Den ene fik tilsat 1,5 vanille stang
 
-As GoB ruined the act*, by washing the color out of Franklin, making him a white freckled(british-speaking) version of his old self, as is this Sweet White Vanilla Stout freckled with black seeds from the vanilla is has been conditioned upon.
+As GoB ruined the act\*, by washing the color out of Franklin, making him a white freckled(british-speaking) version of his old self, as is this Sweet White Vanilla Stout freckled with black seeds from the vanilla is has been conditioned upon.
 
 * Arrested Development (S2, Ep18) "Righteous Brothers"
 

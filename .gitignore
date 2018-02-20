@@ -28,3 +28,4 @@ typings/
 .env
 
 images
+dist

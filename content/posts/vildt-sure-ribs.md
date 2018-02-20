@@ -5,7 +5,7 @@ bottled: "N/A"
 batch: "20170902-2a"
 ibu: "0"
 srm: "N/A"
-abv: "N/A"
+abv: "4"
 img: "//tegnerbryggers.beer/images/vildtsureribs.jpg"
 ---
 
@@ -20,8 +20,8 @@ img: "//tegnerbryggers.beer/images/vildtsureribs.jpg"
 * Indholdet af 25 kapsler Symbioflor
 * ,5 Lactobacillus Brevis #WLP672
 
-
 Tilsat masser af Ribs fra sommerhuset
 
 ![Vildt Sure Ribs](//tegnerbryggers.beer/images/20171102_213908.jpg)
 ![Vildt Sure Ribs](//tegnerbryggers.beer/images/20171125_121805.jpg)
+![Vildt Sure Ribs](//tegnerbryggers.beer/images/sureribs-glas.jpg)

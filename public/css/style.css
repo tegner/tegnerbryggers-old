@@ -3,6 +3,7 @@ body {
   background: #eee;
   color: #000;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 17px;
   margin: 0;
   padding: 0;
 }
@@ -17,6 +18,10 @@ h1,
 h2,
 h3 {
   font-family: Georgia, serif;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 footer {
@@ -37,12 +42,25 @@ img {
 
 .beer-data {
   background: #efefef;
+  float: right;
+  margin: 0 0 10px 10px;
   padding: 20px;
 }
 
+@media (min-width: 750px) {
+  .beer-data {
+    float: right;
+  }
+}
+
 .label {
-  display: inline-block;
+  display: block;
   width: 75px;
+}
+
+.data {
+  display: block;
+  text-align: right;
 }
 
 .header {
@@ -80,7 +98,7 @@ img {
   padding: 0 20px;
 }
 
-@media (min-width: 650px) {
+@media (min-width: 750px) {
   .blog-content {
     padding: 0 50px;
   }
@@ -90,6 +108,14 @@ img {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+}
+
+.flex--nowrap {
+  flex-wrap: nowrap;
+}
+
+.flex--between {
+  justify-content: space-between;
 }
 
 .list-head {
@@ -106,6 +132,25 @@ img {
 
 .mar--b {
   margin-bottom: 10px;
+}
+
+.btn-paging {
+  color: #707;
+  display: block;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px 0;
+  text-decoration: none;
+  width: 100%;
+}
+
+.btn-paging--last {
+  align-self: flex-end;
+  text-align: right;
+}
+
+.post-header {
+  margin-bottom: 30px;
 }
 
 @import 'menu.css';

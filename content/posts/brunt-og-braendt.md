@@ -4,7 +4,7 @@ date: "2017-10-14"
 bottled: "2017-11-02"
 batch: "20171014-1a"
 ibu: "20"
-srm: "N/A"
+srm: "20"
 abv: "8.5%"
 img: "//tegnerbryggers.beer/images/ogherlugter.jpg"
 ---

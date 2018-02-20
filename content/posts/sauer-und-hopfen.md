@@ -4,9 +4,9 @@ date: "2017-09-02"
 bottled: "N/A"
 batch: "20170902-2b"
 ibu: "0"
-srm: "N/A"
-abv: "N/A"
-img: "//tegnerbryggers.beer/images/20180127_230309.jpg"
+srm: "1"
+abv: "3.9"
+img: "//tegnerbryggers.beer/images/sauer-hopfen-stream-min.jpg"
 ---
 
 ### Malt:
@@ -25,4 +25,5 @@ img: "//tegnerbryggers.beer/images/20180127_230309.jpg"
 **Tørhumle**:
 79 g. Amarillo
 
-![Mr. White IPA](//tegnerbryggers.beer/images/20180127_230309.jpg)
+![Sauer und Hopfen](//tegnerbryggers.beer/images/sauer-hopfen-big-min.jpg)
+![Sauer und Hopfen](//tegnerbryggers.beer/images/20180127_230309.jpg)

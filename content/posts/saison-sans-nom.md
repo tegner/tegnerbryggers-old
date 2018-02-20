@@ -4,7 +4,7 @@ date: "2017-11-25"
 bottled: "2018-01-06"
 batch: "20171125-1"
 ibu: "12"
-srm: "N/A"
+srm: "2"
 abv: "4.7%"
 img: "//tegnerbryggers.beer/images/saisonsansnom.jpg"
 ---

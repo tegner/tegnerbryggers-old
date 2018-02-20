@@ -7,7 +7,21 @@
   font-weight: bold;
   height: 115px;
   margin-bottom: 7px;
+  opacity: 0.8;
   text-decoration: none;
+}
+
+.biglink {
+  -webkit-filter: grayscale(80%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(80%);
+}
+
+.biglink:hover {
+  opacity: 1;
+  text-decoration: none;
+
+  -webkit-filter: grayscale(0); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0);
 }
 
 .biglink-content {

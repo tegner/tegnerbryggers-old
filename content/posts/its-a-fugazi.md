@@ -38,7 +38,9 @@ First wort
 * 200 gram Zythos, 4 dage efter fermentering start, ligget i 3 dage
 
 ![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201019.jpg)
+![It's a Fugazi](//tegnerbryggers.beer/images/fugazi-fad-min.jpg)
 ![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201036.jpg)
 ![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201048.jpg)
+![It's a Fugazi](//tegnerbryggers.beer/images/fugazi-min.jpg)
 ![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201057.jpg)
 ![It's a Fugazi](//tegnerbryggers.beer/images/IMG_20180202_223615.jpg)

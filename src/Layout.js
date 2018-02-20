@@ -13,14 +13,6 @@ const Layout = props => {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link href="./public/favicon.png" rel="icon" type="image/png" />
-        <style
-          dangerouslySetInnerHTML={{
-            __html: `
-          .styled { color: blue }
-          `
-          }}
-        />
-        // <Styling />
       </Head>
       <header className="header">
         <a href="/" className="header-logo">
@@ -33,7 +25,7 @@ const Layout = props => {
         <div className="blog-content">{props.children}</div>
       </div>
       <footer>
-        <div class="flex mar--b">
+        <div className="flex mar--b">
           <a href="https://untappd.com/TegnerBryggers">untappd</a>
 
           <a href="https://www.instagram.com/j_tegner/">instagram</a>

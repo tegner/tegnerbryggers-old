@@ -10,6 +10,7 @@ img: "//tegnerbryggers.beer/images/autumnwind-smal.jpg"
 ---
 
 Lavet på runoff fra brunt og brændt
+
 Tilsat 200 gram brun farin ved kogning
 
 Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra Oakland Raiders digtet af samme navn
@@ -53,6 +54,8 @@ Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra O
 krydderi blanding af stødt ingefær, kanel, kardemomme, allehånde, nelliker og stjerne anis
 Halv kanelstang
 
+![Autumn wind](//tegnerbryggers.beer/images/autumnwind_label-min.jpg)
 ![Autumn wind](//tegnerbryggers.beer/images/autumnwind.jpg)
-![Autumn wind](//tegnerbryggers.beer/images/20180215_190257.jpg)
-![Autumn wind](//tegnerbryggers.beer/images/20180215_190301.jpg)
+![Autumn wind](//tegnerbryggers.beer/images/autumnwind-glas-min.jpg)
+![Autumn wind](//tegnerbryggers.beer/images/20180215_190257-min.jpg)
+![Autumn wind](//tegnerbryggers.beer/images/20180215_190301-min.jpg)
