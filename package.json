@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "phenomic start",
-    "build": "phenomic build"
+    "build": "npm run lint && phenomic build",
+    "lint":
+      "prettier ./public/**/*.css --write && prettier ./src/*.js --single-quote --write"
   },
   "author": "tegner",
   "license": "ISC",
@@ -19,8 +21,9 @@
     "react-router": "^3.2.0"
   },
   "phenomic": {
-    "presets": [
-      "@phenomic/preset-react-app"
-    ]
+    "presets": ["@phenomic/preset-react-app"]
+  },
+  "dependencies": {
+    "prettier": "^1.11.1"
   }
 }

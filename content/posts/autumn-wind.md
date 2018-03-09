@@ -7,11 +7,31 @@ ibu: "23"
 srm: "N/A"
 abv: "4.2%"
 img: "//tegnerbryggers.beer/images/autumnwind-smal.jpg"
+untappd: "//untappd.com/b/tegner-bryggers-the-autumn-wind/2395468"
 ---
+
+## Proces
 
 Lavet på runoff fra brunt og brændt
 
 Tilsat 200 gram brun farin ved kogning
+
+### Gær
+
+* American Ale Yeast Blend #WLP060
+
+### Humle:
+
+| Tid     | Mængde og Humle                 |
+| ------- | ------------------------------- |
+| 60 min. | 20 gram Hallertauer Mittelfrueh |
+
+### Tilsætninger
+
+krydderi blanding af stødt ingefær, kanel, kardemomme, allehånde, nelliker og stjerne anis
+Halv kanelstang
+
+### Historie
 
 Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra Oakland Raiders digtet af samme navn
 
@@ -37,22 +57,6 @@ Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra O
 * And laugh when he's conquered and won.
 
 ---
-
-### Gær
-
-* American Ale Yeast Blend #WLP060
-
-### Humle:
-
-**Bitter Humle**:
-
-60 min.
-20 gram Hallertauer Mittelfrueh
-
-### Tilsætninger
-
-krydderi blanding af stødt ingefær, kanel, kardemomme, allehånde, nelliker og stjerne anis
-Halv kanelstang
 
 ![Autumn wind](//tegnerbryggers.beer/images/autumnwind_label-min.jpg)
 ![Autumn wind](//tegnerbryggers.beer/images/autumnwind.jpg)

@@ -7,9 +7,12 @@ ibu: "N/A"
 srm: "23"
 abv: "5%"
 img: "//tegnerbryggers.beer/images/saison-sombre-smal-min.jpg"
+untappd: "//untappd.com/b/tegner-bryggers-saison-sombre/2517821"
 ---
 
-Lavet af diverse rester fra Saison Sans Nom og malt rester
+## Proces
+
+Lavet af urtrester fra Saison Sans Nom og maltrester
 
 ### Gær
 
@@ -18,7 +21,7 @@ Lavet af diverse rester fra Saison Sans Nom og malt rester
 - OG: 1.046
 - TG: 1.008
 
-Lå en uge på egespåner inden flaskning
+Lagret en uge på rødvins egespåner inden flaskning
 
 Flasket på champagneflasker med rødvinsgær og brett c, lukket med kork og wire, og kork og kapsel
 

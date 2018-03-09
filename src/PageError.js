@@ -1,10 +1,10 @@
-import React from 'react'
-import Head from 'react-helmet'
-import { Layout } from './Layout'
+import React from 'react';
+import Head from 'react-helmet';
+import { Layout } from './Layout';
 
 const PageError = ({ error }) => {
-  const status = (error && error.status) || 404
-  const message = error && status !== 404 ? error.statusText : 'Page not found'
+  const status = (error && error.status) || 404;
+  const message = error && status !== 404 ? error.statusText : 'Page not found';
 
   return (
     <Layout>
@@ -13,7 +13,7 @@ const PageError = ({ error }) => {
       </Head>
       <h1>{message}</h1>
     </Layout>
-  )
-}
+  );
+};
 
-export { PageError }
+export { PageError };

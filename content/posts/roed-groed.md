@@ -7,7 +7,10 @@ ibu: "40"
 srm: "N/A"
 abv: "7.7%"
 img: "//tegnerbryggers.beer/images/roedgroed.jpg"
+untappd: "//untappd.com/b/tegner-bryggers-rod-grod/2267133"
 ---
+
+## Proces
 
 ### Vandbehandling:
 
@@ -27,11 +30,10 @@ Ingen
 
 ### Humle:
 
-**Bitter Humle**:
-
-60 min.
-50 g. East Kent Goldings
-28 g. Magnum
+| Tid     | Mængde og Humle          |
+| ------- | ------------------------ |
+| 60 min. | 50 g. East Kent Goldings |
+| 60 min. | 28 g. Magnum             |
 
 OG: 1.080
 TG: 1.022

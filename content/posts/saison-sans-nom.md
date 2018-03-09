@@ -7,7 +7,10 @@ ibu: "12"
 srm: "2"
 abv: "4.7%"
 img: "//tegnerbryggers.beer/images/saisonsansnom.jpg"
+untappd: "//untappd.com/b/tegner-bryggers-saison-sans-nom/2488893"
 ---
+
+## Proces
 
 ### Malt
 
@@ -21,16 +24,11 @@ img: "//tegnerbryggers.beer/images/saisonsansnom.jpg"
 
 ### Humle:
 
-**Bitter Humle**:
-
-30 min.
-30 gram Tettnang
-
-5 min.
-15 gram Tettnang
-
-1 min.
-10 gram Tettnang
+| Tid     | Mængde og Humle  |
+| ------- | ---------------- |
+| 30 min. | 30 gram Tettnang |
+| 5 min.  | 15 gram Tettnang |
+| 1 min.  | 10 gram Tettnang |
 
 ![Saison Sans Nom](//tegnerbryggers.beer/images/20180127_100634.jpg)
 ![Saison Sans Nom](//tegnerbryggers.beer/images/20180127_173612.jpg)

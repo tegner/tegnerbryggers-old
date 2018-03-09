@@ -7,7 +7,10 @@ ibu: "50"
 srm: "N/A"
 abv: "6.3%"
 img: "//tegnerbryggers.beer/images/ceasehopping.jpg"
+untappd: "//untappd.com/b/tegner-bryggers-cease-hopping/2342450"
 ---
+
+## Proces
 
 ### Vandbehandling:
 
@@ -27,13 +30,10 @@ img: "//tegnerbryggers.beer/images/ceasehopping.jpg"
 
 ### Humle:
 
-**Bitter Humle**:
-
-60 min.
-20 g. Amarillo
-
-Whirlpool
-70 g. Citra
+| Tid       | Mængde og Humle |
+| --------- | --------------- |
+| 60 min.   | 20 g. Amarillo  |
+| Whirlpool | 70 g. Citra     |
 
 **Tørhumle**:
 

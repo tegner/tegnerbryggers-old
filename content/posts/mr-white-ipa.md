@@ -6,7 +6,10 @@ ibu: "45"
 srm: "N/A"
 abv: "5.5%"
 img: "//tegnerbryggers.beer/images/mrwhite.jpg"
+untappd: "//untappd.com/b/tegner-bryggers-mr-white/2192878"
 ---
+
+## Proces
 
 ### Vandbehandling:
 
@@ -24,15 +27,12 @@ img: "//tegnerbryggers.beer/images/mrwhite.jpg"
 
 ### Humle:
 
-**Bitter Humle**:
-
-60 min.
-20 g. Mosaic
-10 g. Magnum
-
-15 min.
-40 g. Citra
-20 g. Mosaic
+| Tid     | Mængde og Humle |
+| ------- | --------------- |
+| 60 min. | 20 g. Mosaic    |
+| 60 min. | 10 g. Magnum    |
+| 15 min. | 40 g. Citra     |
+| 15 min. | 20 g. Mosaic    |
 
 **Tørhumle**:
 63 g. Mosaic

@@ -25,17 +25,10 @@ const Home = ({ isLoading, posts }) => (
         </Head>
         <div className="home-content">
           <h1>Tegner bryggers</h1>
-          <aside>
-            Bryggers er sammentrækning af bryggerhus, bygning indrettet til
-            ølbrygning. - Ordbog over det danske sprog: Jens Høysgaard:
-            Accentuered og raisonnered Grammatica 1747, (IV.249-488.), 40 -{' '}
-            <a href="https://da.wikipedia.org/wiki/Bryggers">
-              Kilde: Wikipedia
-            </a>
-          </aside>
           <p>Hjemmebryggeri på Amager</p>
+          <p>Dette er en log over det øl der kommer ud af det</p>
         </div>
-        <h3 className="list-head">De 5 seneste bryg</h3>
+        <h3 className="list-head">De 5 seneste indlæg</h3>
         {posts &&
           posts.node &&
           posts.node.list.map(post => <BigLink key={post.id} props={post} />)}

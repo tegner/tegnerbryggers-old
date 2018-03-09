@@ -7,11 +7,10 @@ ibu: "40"
 srm: "9"
 abv: "7.7%"
 img: "//tegnerbryggers.beer/images/youveruinedtheact.jpg"
+untappd: "//untappd.com/b/tegner-bryggers-you-ve-ruined-the-act-gob/2267182"
 ---
 
-### Vandbehandling:
-
-Ingen
+## Proces
 
 ### Malt:
 
@@ -27,11 +26,10 @@ Ingen
 
 ### Humle:
 
-**Bitter Humle**:
-
-60 min.
-50 g. East Kent Goldings
-28 g. Magnum
+| Tid     | Mængde og Humle          |
+| ------- | ------------------------ |
+| 60 min. | 50 g. East Kent Goldings |
+| 60 min. | 28 g. Magnum             |
 
 OG: 1.080
 TG: 1.022

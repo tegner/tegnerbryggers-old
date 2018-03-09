@@ -11,6 +11,7 @@
   transform: translateY(100%);
   transition: transform 0.2s;
   width: 100%;
+  z-index: 1;
 }
 
 .menu ul {
@@ -21,6 +22,10 @@
   color: #000;
   font-weight: bold;
   text-decoration: none;
+}
+
+.menu a:hover {
+  color: #b0c;
 }
 
 .menu--opened {

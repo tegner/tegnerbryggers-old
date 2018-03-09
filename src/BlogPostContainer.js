@@ -51,10 +51,11 @@ const BlogPost = ({ hasError, isLoading, page, posts }) => {
                   <span className="label">SRM</span>
                   <span className="data">{page.node.srm}</span>
                 </div>
-                <div className="flex flex--between">
+                <div className="flex flex--between mar--b">
                   <span className="label">ABV</span>
                   <span className="data">{page.node.abv}</span>
                 </div>
+                <Link to={page.node.untappd}>untappd</Link>
               </div>
               <BodyRenderer>{page.node.body}</BodyRenderer>
             </article>

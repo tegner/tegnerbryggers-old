@@ -6,7 +6,10 @@ ibu: "60"
 srm: "1"
 abv: "4%"
 img: "//tegnerbryggers.beer/images/lightafternoonshower.jpg"
+untappd: "//untappd.com/b/tegner-bryggers-light-afternoon-shower/2193512"
 ---
+
+## Proces
 
 Tænkt som en SMaSH Session IPA med Maris Otter og Mosaic, dog er der brugt en lille smule magnum som bitterhumle
 

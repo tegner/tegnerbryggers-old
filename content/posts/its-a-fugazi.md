@@ -7,7 +7,10 @@ ibu: "24"
 srm: "N/A"
 abv: "4.9%"
 img: "//tegnerbryggers.beer/images/itsafugazi.jpg"
+untappd: "//untappd.com/b/tegner-bryggers-it-s-a-fugazi/2497458"
 ---
+
+## Proces
 
 ### Vandbehandling
 
@@ -27,15 +30,18 @@ Lavet starter på begge, 1 liter urt 1.030
 
 ### Humle:
 
-**Bitter Humle**:
-
-First wort
-25 gram Aurora
+| Tid                  | Mængde og Humle |
+| -------------------- | --------------- |
+| First wort - 60 min. | 25 gram Aurora  |
 
 **Tørhumle**
 
-* 200 gram Zythos, 1 dag efter fermentering start, ligget i 3 dage
-* 200 gram Zythos, 4 dage efter fermentering start, ligget i 3 dage
+* 200 gram Zythos, 1 dag efter fermentering start, fjernet efter 3 dage
+* 200 gram Zythos, 4 dage efter fermentering start, fjernet efter 3 dage
+
+* 50 gram citra, i fustagen, fjernet efter 1 dag
+
+Den ene halvdel blev flasket, den anden halvdel på fad
 
 ![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201019.jpg)
 ![It's a Fugazi](//tegnerbryggers.beer/images/fugazi-fad-min.jpg)
