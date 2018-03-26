@@ -7,7 +7,7 @@ ibu: "12"
 srm: "2"
 abv: "4.7%"
 img: "//tegnerbryggers.beer/images/saisonsansnom.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-saison-sans-nom/2488893"
+untappd: "https://untappd.com/b/tegner-bryggers-saison-sans-nom/2488893"
 ---
 
 ## Proces

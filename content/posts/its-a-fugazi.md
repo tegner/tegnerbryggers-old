@@ -7,7 +7,7 @@ ibu: "24"
 srm: "N/A"
 abv: "4.9%"
 img: "//tegnerbryggers.beer/images/itsafugazi.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-it-s-a-fugazi/2497458"
+untappd: "https://untappd.com/b/tegner-bryggers-it-s-a-fugazi/2497458"
 ---
 
 ## Proces

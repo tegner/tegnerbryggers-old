@@ -7,7 +7,7 @@ ibu: "40"
 srm: "N/A"
 abv: "7.7%"
 img: "//tegnerbryggers.beer/images/roedgroed.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-rod-grod/2267133"
+untappd: "https://untappd.com/b/tegner-bryggers-rod-grod/2267133"
 ---
 
 ## Proces

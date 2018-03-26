@@ -7,7 +7,7 @@ ibu: "50"
 srm: "N/A"
 abv: "6.3%"
 img: "//tegnerbryggers.beer/images/ceasehopping.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-cease-hopping/2342450"
+untappd: "https://untappd.com/b/tegner-bryggers-cease-hopping/2342450"
 ---
 
 ## Proces

@@ -7,7 +7,7 @@ ibu: "20"
 srm: "20"
 abv: "8.5%"
 img: "//tegnerbryggers.beer/images/ogherlugter.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-og-her-lugter-brunt-og-braendt/2390886"
+untappd: "https://untappd.com/b/tegner-bryggers-og-her-lugter-brunt-og-braendt/2390886"
 ---
 
 ## Proces

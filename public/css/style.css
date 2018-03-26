@@ -54,8 +54,7 @@ th {
 
 .beer-data {
   background: #efefef;
-  float: right;
-  margin: 0 0 10px 10px;
+  margin-bottom: 10px;
   padding: 20px;
 }
 
@@ -68,6 +67,7 @@ th {
 @media (min-width: 750px) {
   .beer-data {
     float: right;
+    margin-left: 10px;
   }
 }
 
@@ -92,8 +92,13 @@ th {
 
 .header-logo {
   display: block;
-  margin: 10px 0;
   width: 150px;
+}
+
+@media (min-width: 750px) {
+  .header-logo {
+    margin: 10px 0;
+  }
 }
 
 .footer-logo {
@@ -168,7 +173,17 @@ th {
 }
 
 .post-header {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 750px) {
+  .post-header {
+    margin-bottom: 30px;
+  }
+}
+
+.post-image img {
+  line-height: 0;
 }
 
 @import "menu.css";

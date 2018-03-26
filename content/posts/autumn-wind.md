@@ -7,7 +7,7 @@ ibu: "23"
 srm: "N/A"
 abv: "4.2%"
 img: "//tegnerbryggers.beer/images/autumnwind-smal.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-the-autumn-wind/2395468"
+untappd: "https://untappd.com/b/tegner-bryggers-the-autumn-wind/2395468"
 ---
 
 ## Proces

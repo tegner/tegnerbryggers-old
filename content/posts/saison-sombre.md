@@ -7,7 +7,7 @@ ibu: "N/A"
 srm: "23"
 abv: "5%"
 img: "//tegnerbryggers.beer/images/saison-sombre-smal-min.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-saison-sombre/2517821"
+untappd: "https://untappd.com/b/tegner-bryggers-saison-sombre/2517821"
 ---
 
 ## Proces

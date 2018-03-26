@@ -6,7 +6,7 @@ ibu: "45"
 srm: "N/A"
 abv: "5.5%"
 img: "//tegnerbryggers.beer/images/mrwhite.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-mr-white/2192878"
+untappd: "https://untappd.com/b/tegner-bryggers-mr-white/2192878"
 ---
 
 ## Proces

@@ -7,7 +7,7 @@ ibu: "48"
 srm: "35"
 abv: "5%"
 img: "//tegnerbryggers.beer/images/dsb.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-dsb/2193505"
+untappd: "https://untappd.com/b/tegner-bryggers-dsb/2193505"
 ---
 
 ## Proces

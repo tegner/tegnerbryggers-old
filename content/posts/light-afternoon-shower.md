@@ -6,7 +6,7 @@ ibu: "60"
 srm: "1"
 abv: "4%"
 img: "//tegnerbryggers.beer/images/lightafternoonshower.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-light-afternoon-shower/2193512"
+untappd: "https://untappd.com/b/tegner-bryggers-light-afternoon-shower/2193512"
 ---
 
 ## Proces

@@ -31,7 +31,9 @@ const BlogPost = ({ hasError, isLoading, page, posts }) => {
             <article>
               <header className="post-header">
                 <h1>{page.node.title}</h1>
-                <img src={page.node.img} />
+                <div className="post-image">
+                  <img src={page.node.img} />
+                </div>
               </header>
 
               <div className="beer-data">
@@ -55,7 +57,7 @@ const BlogPost = ({ hasError, isLoading, page, posts }) => {
                   <span className="label">ABV</span>
                   <span className="data">{page.node.abv}</span>
                 </div>
-                <Link to={page.node.untappd}>untappd</Link>
+                <a href={page.node.untappd}>untappd</a>
               </div>
               <BodyRenderer>{page.node.body}</BodyRenderer>
             </article>

@@ -7,7 +7,7 @@ ibu: "40"
 srm: "9"
 abv: "7.7%"
 img: "//tegnerbryggers.beer/images/youveruinedtheact.jpg"
-untappd: "//untappd.com/b/tegner-bryggers-you-ve-ruined-the-act-gob/2267182"
+untappd: "https://untappd.com/b/tegner-bryggers-you-ve-ruined-the-act-gob/2267182"
 ---
 
 ## Proces
