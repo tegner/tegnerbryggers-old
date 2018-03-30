@@ -13,7 +13,6 @@ import { BigLink } from './BigLink';
 
 const Home = ({ isLoading, posts }) => (
   <div>
-    {isLoading && 'Loading...'}
     {!isLoading && (
       <Layout name="home">
         <Head>

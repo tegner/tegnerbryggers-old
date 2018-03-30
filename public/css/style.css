@@ -2,7 +2,7 @@ html,
 body {
   background: #eee;
   color: #000;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 17px;
   margin: 0;
   padding: 0;
@@ -11,6 +11,12 @@ body {
 ul,
 li {
   list-style: none;
+  margin: 0 0 20px;
+  padding: 0;
+}
+
+li {
+  margin: 0 0 5px;
 }
 
 header,
@@ -18,6 +24,10 @@ h1,
 h2,
 h3 {
   font-family: Georgia, serif;
+}
+
+h3 {
+  margin-bottom: 5px;
 }
 
 a:hover {
@@ -186,5 +196,5 @@ th {
   line-height: 0;
 }
 
-@import "menu.css";
-@import "biglink.css";
+@import 'menu.css';
+@import 'biglink.css';

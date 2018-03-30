@@ -17,7 +17,6 @@ const BlogPost = ({ hasError, isLoading, page, posts }) => {
   }
   return (
     <div>
-      {isLoading && 'Loading...'}
       {!isLoading &&
         page.node && (
           <Layout>
@@ -35,7 +34,6 @@ const BlogPost = ({ hasError, isLoading, page, posts }) => {
                   <img src={page.node.img} />
                 </div>
               </header>
-
               <div className="beer-data">
                 <div className="flex flex--between">
                   <span className="label">Brygget</span>
@@ -59,7 +57,9 @@ const BlogPost = ({ hasError, isLoading, page, posts }) => {
                 </div>
                 <a href={page.node.untappd}>untappd</a>
               </div>
-              <BodyRenderer>{page.node.body}</BodyRenderer>
+              <div className="beer-body">
+                <BodyRenderer>{page.node.body}</BodyRenderer>
+              </div>
             </article>
           </Layout>
         )}

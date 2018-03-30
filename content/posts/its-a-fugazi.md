@@ -38,7 +38,6 @@ Lavet starter på begge, 1 liter urt 1.030
 
 * 200 gram Zythos, 1 dag efter fermentering start, fjernet efter 3 dage
 * 200 gram Zythos, 4 dage efter fermentering start, fjernet efter 3 dage
-
 * 50 gram citra, i fustagen, fjernet efter 1 dag
 
 Den ene halvdel blev flasket, den anden halvdel på fad
@@ -47,6 +46,5 @@ Den ene halvdel blev flasket, den anden halvdel på fad
 ![It's a Fugazi](//tegnerbryggers.beer/images/fugazi-fad-min.jpg)
 ![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201036.jpg)
 ![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201048.jpg)
-![It's a Fugazi](//tegnerbryggers.beer/images/fugazi-min.jpg)
 ![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201057.jpg)
 ![It's a Fugazi](//tegnerbryggers.beer/images/IMG_20180202_223615.jpg)
