@@ -55,7 +55,6 @@ class Menu extends React.Component {
     const { isLoading, posts } = this.props;
     return (
       <div>
-        {isLoading && 'Loading...'}
         {!isLoading && (
           <nav
             id="menu"
