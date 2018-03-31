@@ -16,30 +16,27 @@ images: []
 ### Malt:
 
 * 5 kg Pale malt
-* 1 kg Torrified wheat
-* 500 g Havre flager
-* 650 g sukker
+* 500 g Havregryn
+* 200 g Carafa I (900 EBC)
 
 ### Gær:
 
-* California Ale, #WLP001
-* British Ale, #WLP005
+* Irish Ale, #WLP004
+* London Ale, #WLP013
+
+Lavet 1 liter starter af hver, dekanteret inden de blev tilføjet urten
+
+OG: 1.056
+TG: 1.018
 
 ### Humle:
 
-| Tid       | Mængde og Humle |
-| --------- | --------------- |
-| 60 min.   | 20 g. Amarillo  |
-| Whirlpool | 70 g. Citra     |
+| Tid        | Mængde og Humle |
+| ---------- | --------------- |
+| First Wort | 38 g. Fuggles   |
 
-**Tørhumle**:
+### Noter
 
-130 g Citra
-100 g El Dorado
-100 g Equinox
-100 g Simcoe
+Farven endte helt sort, der skal bruges væsentlig mindre Carafa.
 
-OG: 1.070
-TG: 1.022
-
-En Halvdel flasket og en halvdel puttet på fad
+Noter af karamel og chokolade
