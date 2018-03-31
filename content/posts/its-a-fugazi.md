@@ -8,6 +8,12 @@ srm: "N/A"
 abv: "4.9%"
 img: "//tegnerbryggers.beer/images/itsafugazi.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-it-s-a-fugazi/2497458"
+images: ["//tegnerbryggers.beer/images/20180211_201019.jpg",
+"//tegnerbryggers.beer/images/20180211_201036.jpg",
+"//tegnerbryggers.beer/images/20180211_201048.jpg",
+"//tegnerbryggers.beer/images/20180211_201057.jpg",
+"//tegnerbryggers.beer/images/fugazi-fad-min.jpg",
+"//tegnerbryggers.beer/images/IMG_20180202_223615.jpg"]
 ---
 
 ## Proces
@@ -41,10 +47,3 @@ Lavet starter på begge, 1 liter urt 1.030
 * 50 gram citra, i fustagen, fjernet efter 1 dag
 
 Den ene halvdel blev flasket, den anden halvdel på fad
-
-![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201019.jpg)
-![It's a Fugazi](//tegnerbryggers.beer/images/fugazi-fad-min.jpg)
-![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201036.jpg)
-![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201048.jpg)
-![It's a Fugazi](//tegnerbryggers.beer/images/20180211_201057.jpg)
-![It's a Fugazi](//tegnerbryggers.beer/images/IMG_20180202_223615.jpg)

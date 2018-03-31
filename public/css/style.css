@@ -196,5 +196,6 @@ th {
   line-height: 0;
 }
 
+@import 'images.css';
 @import 'menu.css';
 @import 'biglink.css';

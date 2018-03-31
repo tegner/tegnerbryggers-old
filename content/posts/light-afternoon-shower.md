@@ -7,6 +7,16 @@ srm: "1"
 abv: "4%"
 img: "//tegnerbryggers.beer/images/lightafternoonshower.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-light-afternoon-shower/2193512"
+images: [
+"//tegnerbryggers.beer/images/20170721_142304.jpg",
+"//tegnerbryggers.beer/images/20170717_170106.jpg",
+"//tegnerbryggers.beer/images/20170729_142223.jpg",
+"//tegnerbryggers.beer/images/20170729_142234.jpg",
+"//tegnerbryggers.beer/images/20170810_133510.jpg",
+"//tegnerbryggers.beer/images/aviary-image-1501325827610.jpg",
+"//tegnerbryggers.beer/images/IMG_20170711_220616_736.jpg",
+"//tegnerbryggers.beer/images/IMG_20170711_222024_954.jpg"
+]
 ---
 
 ## Proces
@@ -44,12 +54,3 @@ Oprindeligt brygget i anledning af Christians polterabend
 50 g. Mosaic
 39 g. Mosaic
 69 g. Mosaic
-
-![Light Afternoon Shower](//tegnerbryggers.beer/images/20170721_142304.jpg)
-![Light Afternoon Shower](//tegnerbryggers.beer/images/20170717_170106.jpg)
-![Light Afternoon Shower](//tegnerbryggers.beer/images/20170729_142223.jpg)
-![Light Afternoon Shower](//tegnerbryggers.beer/images/20170729_142234.jpg)
-![Light Afternoon Shower](//tegnerbryggers.beer/images/20170810_133510.jpg)
-![Light Afternoon Shower](//tegnerbryggers.beer/images/aviary-image-1501325827610.jpg)
-![Light Afternoon Shower](//tegnerbryggers.beer/images/IMG_20170711_220616_736.jpg)
-![Light Afternoon Shower](//tegnerbryggers.beer/images/IMG_20170711_222024_954.jpg)

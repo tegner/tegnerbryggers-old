@@ -8,6 +8,11 @@ srm: "9"
 abv: "7.7%"
 img: "//tegnerbryggers.beer/images/youveruinedtheact.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-you-ve-ruined-the-act-gob/2267182"
+images: [
+"//tegnerbryggers.beer/images/20170902_133356.jpg",
+"//tegnerbryggers.beer/images/20170719_171735.jpg",
+"//tegnerbryggers.beer/images/IMG_20170827_101639_922.jpg"
+]
 ---
 
 ## Proces
@@ -42,7 +47,3 @@ Den ene fik tilsat 1,5 vanille stang
 As GoB ruined the act\*, by washing the color out of Franklin, making him a white freckled(british-speaking) version of his old self, as is this Sweet White Vanilla Stout freckled with black seeds from the vanilla is has been conditioned upon.
 
 * Arrested Development (S2, Ep18) "Righteous Brothers"
-
-![You've Ruined the act GoB](//tegnerbryggers.beer/images/20170902_133356.jpg)
-![You've Ruined the act GoB](//tegnerbryggers.beer/images/IMG_20170827_101639_922.jpg)
-![You've Ruined the act GoB](//tegnerbryggers.beer/images/20170719_171735.jpg)

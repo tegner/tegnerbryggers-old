@@ -8,6 +8,11 @@ srm: "N/A"
 abv: "6.3%"
 img: "//tegnerbryggers.beer/images/ceasehopping.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-cease-hopping/2342450"
+images: ["//tegnerbryggers.beer/images/20171103_222211.jpg",
+"//tegnerbryggers.beer/images/20171015_170741.jpg",
+"//tegnerbryggers.beer/images/IMG_20171015_173404_259.jpg",
+"//tegnerbryggers.beer/images/20171125_164628.jpg"
+]
 ---
 
 ## Proces
@@ -46,8 +51,3 @@ OG: 1.070
 TG: 1.022
 
 En Halvdel flasket og en halvdel puttet på fad
-
-![CEASE Hopping](//tegnerbryggers.beer/images/20171103_222211.jpg)
-![CEASE Hopping](//tegnerbryggers.beer/images/20171015_170741.jpg)
-![CEASE Hopping](//tegnerbryggers.beer/images/IMG_20171015_173404_259.jpg)
-![CEASE Hopping](//tegnerbryggers.beer/images/20171125_164628.jpg)

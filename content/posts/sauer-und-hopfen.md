@@ -8,6 +8,10 @@ srm: "1"
 abv: "3.9"
 img: "//tegnerbryggers.beer/images/sauer-hopfen-stream-min.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-sauer-und-hopfen/2465239"
+images: [
+"//tegnerbryggers.beer/images/sauer-hopfen-big-min.jpg",
+"//tegnerbryggers.beer/images/20180127_230309.jpg",
+]
 ---
 
 ## Proces
@@ -27,6 +31,3 @@ untappd: "https://untappd.com/b/tegner-bryggers-sauer-und-hopfen/2465239"
 
 **Tørhumle**:
 79 g. Amarillo
-
-![Sauer und Hopfen](//tegnerbryggers.beer/images/sauer-hopfen-big-min.jpg)
-![Sauer und Hopfen](//tegnerbryggers.beer/images/20180127_230309.jpg)

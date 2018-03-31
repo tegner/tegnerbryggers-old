@@ -8,6 +8,13 @@ srm: "N/A"
 abv: "4.2%"
 img: "//tegnerbryggers.beer/images/autumnwind-smal.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-the-autumn-wind/2395468"
+images: [
+"//tegnerbryggers.beer/images/autumnwind-glas-min.jpg",
+"//tegnerbryggers.beer/images/20180215_190257-min.jpg",
+"//tegnerbryggers.beer/images/20180215_190301-min.jpg",
+"//tegnerbryggers.beer/images/autumnwind_label-min.jpg",
+"//tegnerbryggers.beer/images/autumnwind.jpg"
+]
 ---
 
 ## Proces
@@ -57,9 +64,3 @@ Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra O
 * And laugh when he's conquered and won.
 
 ---
-
-![Autumn wind](//tegnerbryggers.beer/images/autumnwind_label-min.jpg)
-![Autumn wind](//tegnerbryggers.beer/images/autumnwind.jpg)
-![Autumn wind](//tegnerbryggers.beer/images/autumnwind-glas-min.jpg)
-![Autumn wind](//tegnerbryggers.beer/images/20180215_190257-min.jpg)
-![Autumn wind](//tegnerbryggers.beer/images/20180215_190301-min.jpg)
