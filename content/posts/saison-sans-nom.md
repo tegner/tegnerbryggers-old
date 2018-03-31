@@ -8,6 +8,12 @@ srm: "2"
 abv: "4.7%"
 img: "//tegnerbryggers.beer/images/saisonsansnom.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-saison-sans-nom/2488893"
+images: [
+"//tegnerbryggers.beer/images/20180127_100634.jpg",
+"//tegnerbryggers.beer/images/20180127_173612.jpg",
+"//tegnerbryggers.beer/images/20180211_200949.jpg",
+"//tegnerbryggers.beer/images/20180211_200939.jpg"
+]
 ---
 
 ## Proces
@@ -29,8 +35,3 @@ untappd: "https://untappd.com/b/tegner-bryggers-saison-sans-nom/2488893"
 | 30 min. | 30 gram Tettnang |
 | 5 min.  | 15 gram Tettnang |
 | 1 min.  | 10 gram Tettnang |
-
-![Saison Sans Nom](//tegnerbryggers.beer/images/20180127_100634.jpg)
-![Saison Sans Nom](//tegnerbryggers.beer/images/20180127_173612.jpg)
-![Saison Sans Nom](//tegnerbryggers.beer/images/20180211_200949.jpg)
-![Saison Sans Nom](//tegnerbryggers.beer/images/20180211_200939.jpg)

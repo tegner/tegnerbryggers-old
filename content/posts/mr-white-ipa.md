@@ -7,6 +7,12 @@ srm: "N/A"
 abv: "5.5%"
 img: "//tegnerbryggers.beer/images/mrwhite.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-mr-white/2192878"
+images: [
+"//tegnerbryggers.beer/images/20170423_164620.jpg",
+"//tegnerbryggers.beer/images/20170423_164940.jpg",
+"//tegnerbryggers.beer/images/20170423_170907.jpg",
+"//tegnerbryggers.beer/images/20170507_074833.jpg"
+]
 ---
 
 ## Proces
@@ -37,8 +43,3 @@ untappd: "https://untappd.com/b/tegner-bryggers-mr-white/2192878"
 **Tørhumle**:
 63 g. Mosaic
 61 g. Citra
-
-![Mr. White IPA](//tegnerbryggers.beer/images/20170423_164620.jpg)
-![Mr. White IPA](//tegnerbryggers.beer/images/20170423_164940.jpg)
-![Mr. White IPA](//tegnerbryggers.beer/images/20170423_170907.jpg)
-![Mr. White IPA](//tegnerbryggers.beer/images/20170507_074833.jpg)

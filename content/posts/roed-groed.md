@@ -40,4 +40,4 @@ TG: 1.022
 
 ###
 
-Tilsat rødgrød
+Tilsat rødgrød lavet af jordbær, hindbær og ribs

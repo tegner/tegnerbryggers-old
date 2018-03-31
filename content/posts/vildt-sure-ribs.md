@@ -8,6 +8,11 @@ srm: "N/A"
 abv: "4"
 img: "//tegnerbryggers.beer/images/vildtsureribs.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-vildt-sure-ribs/2343639"
+images: [
+"//tegnerbryggers.beer/images/20171102_213908.jpg",
+"//tegnerbryggers.beer/images/20171125_121805.jpg",
+"//tegnerbryggers.beer/images/sureribs-glas.jpg"
+]
 ---
 
 ## Proces
@@ -24,7 +29,3 @@ untappd: "https://untappd.com/b/tegner-bryggers-vildt-sure-ribs/2343639"
 * ,5 Lactobacillus Brevis #WLP672
 
 Tilsat masser af Ribs fra sommerhuset
-
-![Vildt Sure Ribs](//tegnerbryggers.beer/images/20171102_213908.jpg)
-![Vildt Sure Ribs](//tegnerbryggers.beer/images/20171125_121805.jpg)
-![Vildt Sure Ribs](//tegnerbryggers.beer/images/sureribs-glas.jpg)

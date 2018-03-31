@@ -69,13 +69,14 @@ class BlogPost extends React.Component {
                 </div>
               </article>
               <div className="beer-images">
-                {page.node.images.map(function(image, index) {
-                  return (
-                    <div key={index} className="beer-image">
-                      <img src={image} />
-                    </div>
-                  );
-                })}
+                {page.node.images &&
+                  page.node.images.map(function(image, index) {
+                    return (
+                      <div key={index} className="beer-image">
+                        <img src={image} />
+                      </div>
+                    );
+                  })}
               </div>
             </Layout>
           )}
