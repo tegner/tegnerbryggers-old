@@ -6,14 +6,16 @@ batch: "20180120"
 ibu: "24"
 srm: "N/A"
 abv: "4.9%"
-img: "//tegnerbryggers.beer/images/itsafugazi.jpg"
+img: "//tegnerbryggers.beer/images/fugazi/itsafugazi.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-it-s-a-fugazi/2497458"
-images: ["//tegnerbryggers.beer/images/20180211_201019.jpg",
-"//tegnerbryggers.beer/images/20180211_201036.jpg",
-"//tegnerbryggers.beer/images/20180211_201048.jpg",
-"//tegnerbryggers.beer/images/20180211_201057.jpg",
-"//tegnerbryggers.beer/images/fugazi-fad-min.jpg",
-"//tegnerbryggers.beer/images/IMG_20180202_223615.jpg"]
+images: [
+"//tegnerbryggers.beer/images/fugazi/20180211_201019.jpg",
+"//tegnerbryggers.beer/images/fugazi/20180211_201036.jpg",
+"//tegnerbryggers.beer/images/fugazi/20180211_201048.jpg",
+"//tegnerbryggers.beer/images/fugazi/20180211_201057.jpg",
+"//tegnerbryggers.beer/images/fugazi/fugazi-fad-min.jpg",
+"//tegnerbryggers.beer/images/fugazi/IMG_20180202_223615.jpg"
+]
 ---
 
 ## Proces

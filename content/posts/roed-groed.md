@@ -6,8 +6,12 @@ batch: "20170708-2b"
 ibu: "40"
 srm: "N/A"
 abv: "7.7%"
-img: "//tegnerbryggers.beer/images/roedgroed.jpg"
+img: "//tegnerbryggers.beer/images/roedgroed/roedgroed.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-rod-grod/2267133"
+images: [
+"//tegnerbryggers.beer/images/roedgroed/20170827_191436.jpg",
+"//tegnerbryggers.beer/images/roedgroed/20180211_201256.jpg"
+]
 ---
 
 ## Proces

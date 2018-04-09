@@ -6,12 +6,13 @@ batch: "20170902-1"
 ibu: "50"
 srm: "N/A"
 abv: "6.3%"
-img: "//tegnerbryggers.beer/images/ceasehopping.jpg"
+img: "//tegnerbryggers.beer/images/cease/ceasehopping.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-cease-hopping/2342450"
-images: ["//tegnerbryggers.beer/images/20171103_222211.jpg",
-"//tegnerbryggers.beer/images/20171015_170741.jpg",
-"//tegnerbryggers.beer/images/IMG_20171015_173404_259.jpg",
-"//tegnerbryggers.beer/images/20171125_164628.jpg"
+images: [
+"//tegnerbryggers.beer/images/cease/20171103_222211.jpg",
+"//tegnerbryggers.beer/images/cease/20171015_170741.jpg",
+"//tegnerbryggers.beer/images/cease/IMG_20171015_173404_259.jpg",
+"//tegnerbryggers.beer/images/cease/20171125_164628.jpg"
 ]
 ---
 

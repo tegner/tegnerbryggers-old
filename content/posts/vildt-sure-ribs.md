@@ -6,12 +6,12 @@ batch: "20170902-2a"
 ibu: "0"
 srm: "N/A"
 abv: "4"
-img: "//tegnerbryggers.beer/images/vildtsureribs.jpg"
+img: "//tegnerbryggers.beer/images/ribs/vildtsureribs.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-vildt-sure-ribs/2343639"
 images: [
-"//tegnerbryggers.beer/images/20171102_213908.jpg",
-"//tegnerbryggers.beer/images/20171125_121805.jpg",
-"//tegnerbryggers.beer/images/sureribs-glas.jpg"
+"//tegnerbryggers.beer/images/ribs/20171102_213908.jpg",
+"//tegnerbryggers.beer/images/ribs/20171125_121805.jpg",
+"//tegnerbryggers.beer/images/ribs/sureribs-glas.jpg"
 ]
 ---
 

@@ -6,14 +6,14 @@ batch: "20171014-1b"
 ibu: "23"
 srm: "N/A"
 abv: "4.2%"
-img: "//tegnerbryggers.beer/images/autumnwind-smal.jpg"
+img: "//tegnerbryggers.beer/images/autumnwind/autumnwind-smal.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-the-autumn-wind/2395468"
 images: [
-"//tegnerbryggers.beer/images/autumnwind-glas-min.jpg",
-"//tegnerbryggers.beer/images/20180215_190257-min.jpg",
-"//tegnerbryggers.beer/images/20180215_190301-min.jpg",
-"//tegnerbryggers.beer/images/autumnwind_label-min.jpg",
-"//tegnerbryggers.beer/images/autumnwind.jpg"
+"//tegnerbryggers.beer/images/autumnwind/autumnwind-glas-min.jpg",
+"//tegnerbryggers.beer/images/autumnwind/20180215_190257-min.jpg",
+"//tegnerbryggers.beer/images/autumnwind/20180215_190301-min.jpg",
+"//tegnerbryggers.beer/images/autumnwind/autumnwind_label-min.jpg",
+"//tegnerbryggers.beer/images/autumnwind/autumnwind.jpg"
 ]
 ---
 
