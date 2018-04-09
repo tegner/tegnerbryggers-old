@@ -6,9 +6,12 @@ batch: "20180302-1"
 ibu: "22"
 srm: "40"
 abv: "5%"
-img: ""
+img: "//tegnerbryggers.beer/images/fear-is-the-path-smal-min.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-fear-is-the-path/2576478"
-images: []
+images: [
+"//tegnerbryggers.beer/images/fear-is-the-path-min.jpg",
+"//tegnerbryggers.beer/images/fear-is-the-path2-min.jpg"
+]
 ---
 
 ## Proces
