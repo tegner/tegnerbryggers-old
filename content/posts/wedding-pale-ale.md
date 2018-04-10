@@ -20,7 +20,7 @@ images: [
 ]
 ---
 
-New England style pale ale brygget i anledning af Marianne og Mortens bryllup 7/4 2018.
+New England style Pale Ale brygget i anledning af Marianne og Mortens bryllup 7/4 2018.
 
 Hele batchet blev serveret på fad.
 
