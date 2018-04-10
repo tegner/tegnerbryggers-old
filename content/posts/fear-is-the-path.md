@@ -1,6 +1,7 @@
 ---
 title: "Fear is the Path"
-date: "2018-03-02"
+date: "2018-03-18"
+brewed: "2018-03-02"
 bottled: "2018-03-18"
 batch: "20180302-1"
 ibu: "22"

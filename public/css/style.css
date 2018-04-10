@@ -2,7 +2,7 @@ html,
 body {
   background: #eee;
   color: #000;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 17px;
   margin: 0;
   padding: 0;
@@ -32,6 +32,21 @@ h3 {
 
 a:hover {
   text-decoration: underline;
+}
+
+th,
+td {
+  padding: 2px 5px;
+}
+
+th:first-child,
+td:first-child {
+  padding-left: 0;
+}
+
+th:last-child,
+td:last-child {
+  padding-right: 0;
 }
 
 footer {
@@ -196,6 +211,6 @@ th {
   line-height: 0;
 }
 
-@import "images.css";
-@import "menu.css";
-@import "biglink.css";
+@import 'images.css';
+@import 'menu.css';
+@import 'biglink.css';

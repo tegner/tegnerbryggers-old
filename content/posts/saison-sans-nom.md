@@ -1,6 +1,7 @@
 ---
 title: "Saison Sans Nom 2017"
-date: "2017-11-25"
+date: "2018-01-06"
+brewed: "2017-11-25"
 bottled: "2018-01-06"
 batch: "20171125-1"
 ibu: "12"

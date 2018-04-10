@@ -1,6 +1,7 @@
 ---
 title: "og her lugter brunt og brændt"
-date: "2017-10-14"
+date: "2017-11-02"
+brewed: "2017-10-14"
 bottled: "2017-11-02"
 batch: "20171014-1a"
 ibu: "20"

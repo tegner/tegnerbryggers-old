@@ -1,6 +1,7 @@
 ---
 title: "Dark Strong Bitter"
 date: "2017-04-13"
+brewed: "2017-04-13"
 bottled: "N/A"
 batch: "20170413"
 ibu: "48"

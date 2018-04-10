@@ -1,6 +1,7 @@
 ---
 title: "You've Ruined the act GoB"
-date: "2017-07-08"
+date: "2017-07-22"
+brewed: "2017-07-08"
 bottled: "2017-07-22"
 batch: "20170708-2a"
 ibu: "40"

@@ -1,6 +1,7 @@
 ---
 title: "Light Afternoon Shower"
 date: "2017-06-09"
+brewed: "2017-06-09"
 bottled: "N/A"
 ibu: "60"
 srm: "1"

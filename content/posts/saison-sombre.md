@@ -1,6 +1,7 @@
 ---
 title: "Saison Sombre"
-date: "2017-11-26"
+date: "2018-02-03"
+brewed: "2017-11-26"
 bottled: "2018-02-03"
 batch: "20171126"
 ibu: "N/A"

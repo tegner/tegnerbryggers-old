@@ -1,6 +1,7 @@
 ---
 title: "Mr. White IPA"
 date: "2017-03-21"
+brewed: "2017-03-21"
 bottled: "N/A"
 ibu: "45"
 srm: "N/A"
@@ -15,6 +16,8 @@ images: [
 "//tegnerbryggers.beer/images/mrwhite/IMG_20170527_181805.jpg"
 ]
 ---
+
+Første bryg! Brygget i fællesskab med Krystian, så jeg kunne lære processen.
 
 ## Proces
 

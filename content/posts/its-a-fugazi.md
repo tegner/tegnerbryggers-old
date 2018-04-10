@@ -1,6 +1,7 @@
 ---
 title: "It's a Fugazi"
-date: "2018-01-20"
+date: "2018-01-06"
+brewed: "2018-01-20"
 bottled: "2018-01-06"
 batch: "20180120"
 ibu: "24"

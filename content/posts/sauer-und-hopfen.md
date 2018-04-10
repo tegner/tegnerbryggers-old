@@ -1,6 +1,7 @@
 ---
 title: "Sauer und Hopfen"
 date: "2017-09-02"
+brewed: "2017-09-02"
 bottled: "N/A"
 batch: "20170902-2b"
 ibu: "0"

@@ -1,6 +1,7 @@
 ---
 title: "CEASE Hopping"
-date: "2017-09-02"
+date: "2017-07-22"
+brewed: "2017-09-02"
 bottled: "2017-07-22"
 batch: "20170902-1"
 ibu: "50"

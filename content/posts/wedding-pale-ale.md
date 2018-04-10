@@ -1,6 +1,7 @@
 ---
 title: "Mariannes og Mortens pale ale"
-date: "2018-03-19"
+date: "2018-04-01"
+brewed: "2018-03-19"
 bottled: "2018-04-01"
 batch: "20180319"
 ibu: "30"
@@ -24,9 +25,9 @@ New England style Pale Ale brygget i anledning af Marianne og Mortens bryllup 7/
 
 Hele batchet blev serveret på fad.
 
-Brygget efter [short and shoddy](http://brulosophy.com/projects/short-shoddy/) metoden, dog med 30 minutter afsat til mash og kogning, hver især. Den metode kommer jeg nok til at bruge en del mere i fremtiden.
-
 ## Proces
+
+Brygget efter [short and shoddy](http://brulosophy.com/projects/short-shoddy/) metoden, dog med 30 minutter afsat til mash og kogning, hver især. Den metode kommer jeg nok til at bruge en del mere i fremtiden.
 
 ### Malt:
 
@@ -37,8 +38,10 @@ Brygget efter [short and shoddy](http://brulosophy.com/projects/short-shoddy/) m
 
 * London III, Wyeast #1318
 
-OG: 1.046
-TG: 1.011
+|     |       |
+| --- | ----- |
+| OG: | 1.046 |
+| TG: | 1.011 |
 
 ### Humle:
 
