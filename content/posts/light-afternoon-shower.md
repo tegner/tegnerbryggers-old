@@ -1,21 +1,22 @@
 ---
 title: "Light Afternoon Shower"
 date: "2017-06-09"
+brewed: "2017-06-09"
 bottled: "N/A"
 ibu: "60"
 srm: "1"
 abv: "4%"
-img: "//tegnerbryggers.beer/images/lightafternoonshower.jpg"
+img: "//tegnerbryggers.beer/images/afternoonshower/lightafternoonshower.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-light-afternoon-shower/2193512"
 images: [
-"//tegnerbryggers.beer/images/20170721_142304.jpg",
-"//tegnerbryggers.beer/images/20170717_170106.jpg",
-"//tegnerbryggers.beer/images/20170729_142223.jpg",
-"//tegnerbryggers.beer/images/20170729_142234.jpg",
-"//tegnerbryggers.beer/images/20170810_133510.jpg",
-"//tegnerbryggers.beer/images/aviary-image-1501325827610.jpg",
-"//tegnerbryggers.beer/images/IMG_20170711_220616_736.jpg",
-"//tegnerbryggers.beer/images/IMG_20170711_222024_954.jpg"
+"//tegnerbryggers.beer/images/afternoonshower/20170721_142304.jpg",
+"//tegnerbryggers.beer/images/afternoonshower/20170717_170106.jpg",
+"//tegnerbryggers.beer/images/afternoonshower/20170729_142223.jpg",
+"//tegnerbryggers.beer/images/afternoonshower/20170729_142234.jpg",
+"//tegnerbryggers.beer/images/afternoonshower/20170810_133510.jpg",
+"//tegnerbryggers.beer/images/afternoonshower/aviary-image-1501325827610.jpg",
+"//tegnerbryggers.beer/images/afternoonshower/IMG_20170711_220616_736.jpg",
+"//tegnerbryggers.beer/images/afternoonshower/IMG_20170711_222024_954.jpg"
 ]
 ---
 

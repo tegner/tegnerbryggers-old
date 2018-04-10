@@ -16,9 +16,7 @@ class BlogPost extends React.Component {
     super(props);
   }
 
-  componentDidMount() {
-    console.log('componentDidMount');
-  }
+  componentDidMount() {}
 
   render() {
     const { hasError, isLoading, page, posts } = this.props;
@@ -62,7 +60,7 @@ class BlogPost extends React.Component {
                     <span className="label">ABV</span>
                     <span className="data">{page.node.abv}</span>
                   </div>
-                  <a href={page.node.untappd}>untappd</a>
+                  {page.node.untappd && <a href={page.node.untappd}>untappd</a>}
                 </div>
                 <div className="beer-body">
                   <BodyRenderer>{page.node.body}</BodyRenderer>

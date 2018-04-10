@@ -1,16 +1,17 @@
 ---
 title: "Sauer und Hopfen"
 date: "2017-09-02"
+brewed: "2017-09-02"
 bottled: "N/A"
 batch: "20170902-2b"
 ibu: "0"
 srm: "1"
 abv: "3.9"
-img: "//tegnerbryggers.beer/images/sauer-hopfen-stream-min.jpg"
+img: "//tegnerbryggers.beer/images/sauer/sauer-hopfen-stream-min.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-sauer-und-hopfen/2465239"
 images: [
-"//tegnerbryggers.beer/images/sauer-hopfen-big-min.jpg",
-"//tegnerbryggers.beer/images/20180127_230309.jpg",
+"//tegnerbryggers.beer/images/sauer/sauer-hopfen-big-min.jpg",
+"//tegnerbryggers.beer/images/sauer/20180127_230309.jpg",
 ]
 ---
 

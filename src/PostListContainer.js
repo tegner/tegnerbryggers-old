@@ -19,8 +19,7 @@ const PostList = ({ hasError, isLoading, posts }) => {
 
   return (
     <Layout>
-      <h1>Alle bryg</h1>
-      <h3 className="list-head">Alle bryg</h3>
+      <h1 className="list-head">Alle indlæg</h1>
       {isLoading && 'Loading...'}
       {!isLoading &&
         posts &&

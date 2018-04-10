@@ -1,20 +1,21 @@
 ---
 title: "Saison Sombre"
-date: "2017-11-26"
+date: "2018-02-03"
+brewed: "2017-11-26"
 bottled: "2018-02-03"
 batch: "20171126"
 ibu: "N/A"
 srm: "23"
 abv: "5%"
-img: "//tegnerbryggers.beer/images/saison-sombre-smal-min.jpg"
+img: "//tegnerbryggers.beer/images/saisonsombre/saison-sombre-smal-min.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-saison-sombre/2517821"
 images: [
-"//tegnerbryggers.beer/images/saison-sombre-01-min.jpg",
-"//tegnerbryggers.beer/images/saison-sombre-02-min.jpg",
-"//tegnerbryggers.beer/images/saison-sombre-03-min.jpg",
-"//tegnerbryggers.beer/images/saison-sombre-04-min.jpg",
-"//tegnerbryggers.beer/images/saison-sombre-05-min.jpg",
-"//tegnerbryggers.beer/images/saison-sombre-06-min.jpg"
+"//tegnerbryggers.beer/images/saisonsombre/saison-sombre-01-min.jpg",
+"//tegnerbryggers.beer/images/saisonsombre/saison-sombre-02-min.jpg",
+"//tegnerbryggers.beer/images/saisonsombre/saison-sombre-03-min.jpg",
+"//tegnerbryggers.beer/images/saisonsombre/saison-sombre-04-min.jpg",
+"//tegnerbryggers.beer/images/saisonsombre/saison-sombre-05-min.jpg",
+"//tegnerbryggers.beer/images/saisonsombre/saison-sombre-06-min.jpg"
 ]
 ---
 

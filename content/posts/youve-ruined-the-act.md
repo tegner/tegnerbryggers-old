@@ -1,17 +1,18 @@
 ---
 title: "You've Ruined the act GoB"
-date: "2017-07-08"
+date: "2017-07-22"
+brewed: "2017-07-08"
 bottled: "2017-07-22"
 batch: "20170708-2a"
 ibu: "40"
 srm: "9"
 abv: "7.7%"
-img: "//tegnerbryggers.beer/images/youveruinedtheact.jpg"
+img: "//tegnerbryggers.beer/images/ruinedtheact/youveruinedtheact.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-you-ve-ruined-the-act-gob/2267182"
 images: [
-"//tegnerbryggers.beer/images/20170902_133356.jpg",
-"//tegnerbryggers.beer/images/20170719_171735.jpg",
-"//tegnerbryggers.beer/images/IMG_20170827_101639_922.jpg"
+"//tegnerbryggers.beer/images/ruinedtheact/20170902_133356.jpg",
+"//tegnerbryggers.beer/images/ruinedtheact/20170719_171735.jpg",
+"//tegnerbryggers.beer/images/ruinedtheact/IMG_20170827_101639_922.jpg"
 ]
 ---
 

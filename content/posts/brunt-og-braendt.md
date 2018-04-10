@@ -1,15 +1,17 @@
 ---
 title: "og her lugter brunt og brændt"
-date: "2017-10-14"
+date: "2017-11-02"
+brewed: "2017-10-14"
 bottled: "2017-11-02"
 batch: "20171014-1a"
 ibu: "20"
 srm: "20"
 abv: "8.5%"
-img: "//tegnerbryggers.beer/images/ogherlugter.jpg"
+img: "//tegnerbryggers.beer/images/brunt/ogherlugter.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-og-her-lugter-brunt-og-braendt/2390886"
-images: ["//tegnerbryggers.beer/images/20171124_190125.jpg",
-"//tegnerbryggers.beer/images/aviary-image-1510937384856.jpg"
+images: [
+"//tegnerbryggers.beer/images/brunt/20171124_190125.jpg",
+"//tegnerbryggers.beer/images/brunt/aviary-image-1510937384856.jpg"
 ]
 ---
 

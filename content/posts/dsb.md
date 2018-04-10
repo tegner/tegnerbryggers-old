@@ -1,17 +1,18 @@
 ---
 title: "Dark Strong Bitter"
 date: "2017-04-13"
+brewed: "2017-04-13"
 bottled: "N/A"
 batch: "20170413"
 ibu: "48"
 srm: "35"
 abv: "5%"
-img: "//tegnerbryggers.beer/images/dsb.jpg"
+img: "//tegnerbryggers.beer/images/dsb/dsb.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-dsb/2193505"
 images: [
-"//tegnerbryggers.beer/images/20170717_170119.jpg",
-"//tegnerbryggers.beer/images/20170721_155450.jpg",
-"//tegnerbryggers.beer/images/20170528_144532.jpg"
+"//tegnerbryggers.beer/images/dsb/20170717_170119.jpg",
+"//tegnerbryggers.beer/images/dsb/20170721_155450.jpg",
+"//tegnerbryggers.beer/images/dsb/20170528_144532.jpg"
 ]
 ---
 

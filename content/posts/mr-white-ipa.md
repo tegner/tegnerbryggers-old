@@ -1,19 +1,23 @@
 ---
 title: "Mr. White IPA"
 date: "2017-03-21"
+brewed: "2017-03-21"
 bottled: "N/A"
 ibu: "45"
 srm: "N/A"
 abv: "5.5%"
-img: "//tegnerbryggers.beer/images/mrwhite.jpg"
+img: "//tegnerbryggers.beer/images/mrwhite/mrwhite.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-mr-white/2192878"
 images: [
-"//tegnerbryggers.beer/images/20170423_164620.jpg",
-"//tegnerbryggers.beer/images/20170423_164940.jpg",
-"//tegnerbryggers.beer/images/20170423_170907.jpg",
-"//tegnerbryggers.beer/images/20170507_074833.jpg"
+"//tegnerbryggers.beer/images/mrwhite/20170423_164620.jpg",
+"//tegnerbryggers.beer/images/mrwhite/20170423_164940.jpg",
+"//tegnerbryggers.beer/images/mrwhite/20170423_170907.jpg",
+"//tegnerbryggers.beer/images/mrwhite/20170507_074833.jpg",
+"//tegnerbryggers.beer/images/mrwhite/IMG_20170527_181805.jpg"
 ]
 ---
+
+Første bryg! Brygget i fællesskab med Krystian, så jeg kunne lære processen.
 
 ## Proces
 
