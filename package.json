@@ -6,8 +6,7 @@
   "scripts": {
     "start": "phenomic start",
     "build": "npm run lint && phenomic build",
-    "lint":
-      "prettier ./public/**/*.css --write && prettier ./src/*.js --single-quote --write"
+    "lint": "prettier ./public/**/*.css --write && prettier ./src/*.js --single-quote --write"
   },
   "author": "tegner",
   "license": "ISC",
@@ -15,15 +14,16 @@
     "@phenomic/cli": "^1.0.0-alpha.20",
     "@phenomic/core": "^1.0.0-alpha.20",
     "@phenomic/preset-react-app": "^1.0.0-alpha.20",
+    "prettier": "^1.12.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-helmet": "^5.2.0",
     "react-router": "^3.2.0"
   },
   "phenomic": {
-    "presets": ["@phenomic/preset-react-app"]
+    "presets": [
+      "@phenomic/preset-react-app"
+    ]
   },
-  "dependencies": {
-    "prettier": "^1.11.1"
-  }
+  "dependencies": {}
 }
