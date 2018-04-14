@@ -10,6 +10,9 @@ abv: "5%"
 img: "//tegnerbryggers.beer/images/fearisthepath/fear-is-the-path-smal-min.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-fear-is-the-path/2576478"
 images: [
+"//tegnerbryggers.beer/images/fearisthepath/0003-min.jpg",
+"//tegnerbryggers.beer/images/fearisthepath/0002-min.jpg",
+"//tegnerbryggers.beer/images/fearisthepath/0001-min.jpg",
 "//tegnerbryggers.beer/images/fearisthepath/fear-is-the-path-min.jpg",
 "//tegnerbryggers.beer/images/fearisthepath/fear-is-the-path2-min.jpg",
 "//tegnerbryggers.beer/images/fearisthepath/fear-is-the-path3-min.jpg"
