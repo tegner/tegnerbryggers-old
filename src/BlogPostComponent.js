@@ -42,7 +42,7 @@ class BlogPost extends React.Component {
                 <div className="beer-data">
                   <div className="flex flex--between">
                     <span className="label">Brygget</span>
-                    <span className="data">{page.node.date}</span>
+                    <span className="data">{page.node.brewed}</span>
                   </div>
                   <div className="flex flex--between mar--b">
                     <span className="label">Flasket</span>
