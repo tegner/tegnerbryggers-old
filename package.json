@@ -13,10 +13,8 @@
   "devDependencies": {
     "@phenomic/cli": "^1.0.0-beta.2",
     "@phenomic/core": "^1.0.0-beta.2",
-    "@phenomic/preset-react-app": "^1.0.0-alpha.20",
-    "node-gyp": "^3.6.2",
+    "@phenomic/preset-react-app": "^1.0.0-beta.2",
     "prettier": "^1.12.0",
-    "python": "0.0.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-helmet": "^5.2.0",

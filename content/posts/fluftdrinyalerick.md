@@ -7,7 +7,7 @@ batch: "20180502"
 ibu: "0"
 srm: "n/a"
 abv: "3.8%"
-img: ""
+img: "//tegnerbryggers.beer/images/fluftdrin/fluft-min.jpg"
 untappd: ""
 images: [
 "//tegnerbryggers.beer/images/fluftdrin/0001-min.jpg",
@@ -34,11 +34,10 @@ Urten er overskyende runoff fra et tidligere bryg
 
 ### Gær:
 
-* dregs fra Oud Beersel Lambic
+dregs fra Oud Beersel Lambic
 
-OG: 1.030
-
-TG: 1.001
+* OG: 1.030
+* TG: 1.001
 
 ### Humle:
 

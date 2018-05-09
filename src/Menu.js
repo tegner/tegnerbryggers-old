@@ -3,7 +3,7 @@ import Head from 'react-helmet';
 import { Router, Route, browserHistory, Link } from 'react-router';
 import {
   createApp,
-  createContainer,
+  withPhenomicApi,
   query,
   BodyRenderer,
   textRenderer
@@ -103,7 +103,7 @@ class Menu extends React.Component {
   }
 }
 
-const MenuContainer = createContainer(Menu, props => ({
+const MenuContainer = withPhenomicApi(Menu, props => ({
   posts: query({ path: 'posts', limit: 12 })
 }));
 

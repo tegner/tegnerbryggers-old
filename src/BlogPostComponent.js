@@ -2,7 +2,7 @@ import React from 'react';
 import Head from 'react-helmet';
 import { Router, Route, browserHistory, Link } from 'react-router';
 import {
-  createContainer,
+  withPhenomicApi,
   query,
   BodyRenderer,
   textRenderer
@@ -83,7 +83,7 @@ class BlogPost extends React.Component {
   }
 }
 
-const BlogPostContainer = createContainer(BlogPost, props => ({
+const BlogPostContainer = withPhenomicApi(BlogPost, props => ({
   page: query({ path: 'posts', id: props.params.splat })
 }));
 

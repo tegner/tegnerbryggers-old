@@ -14,7 +14,9 @@ images: [
 "//tegnerbryggers.beer/images/fearisthepath/0002-min.jpg",
 "//tegnerbryggers.beer/images/fearisthepath/0001-min.jpg",
 "//tegnerbryggers.beer/images/fearisthepath/fear-is-the-path-min.jpg",
-"//tegnerbryggers.beer/images/fearisthepath/fear-is-the-path3-min.jpg"
+"//tegnerbryggers.beer/images/fearisthepath/fear-is-the-path3-min.jpg",
+"//tegnerbryggers.beer/images/fearisthepath/glas.jpg",
+"//tegnerbryggers.beer/images/fearisthepath/glas2.jpg"
 ]
 ---
 
