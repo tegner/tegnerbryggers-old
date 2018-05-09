@@ -3,7 +3,7 @@ import Head from 'react-helmet';
 import { Router, Route, browserHistory, Link } from 'react-router';
 import {
   createApp,
-  createContainer,
+  withPhenomicApi,
   query,
   BodyRenderer,
   textRenderer
@@ -57,7 +57,7 @@ const Home = ({ isLoading, posts }) => (
   </div>
 );
 
-const HomeContainer = createContainer(Home, props => ({
+const HomeContainer = withPhenomicApi(Home, props => ({
   posts: query({ path: 'posts', limit: 5, after: props.params.after })
 }));
 

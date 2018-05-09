@@ -3,7 +3,7 @@ import Head from 'react-helmet';
 import { Router, Route, browserHistory, Link } from 'react-router';
 import {
   createApp,
-  createContainer,
+  withPhenomicApi,
   query,
   BodyRenderer,
   textRenderer
@@ -53,7 +53,7 @@ const PostList = ({ hasError, isLoading, posts }) => {
   );
 };
 
-const PostListContainer = createContainer(PostList, props => ({
+const PostListContainer = withPhenomicApi(PostList, props => ({
   posts: query({ path: 'posts', limit: 12, after: props.params.after })
 }));
 

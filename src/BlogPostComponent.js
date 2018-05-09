@@ -2,7 +2,7 @@ import React from 'react';
 import Head from 'react-helmet';
 import { Router, Route, browserHistory, Link } from 'react-router';
 import {
-  createContainer,
+  withPhenomicApi,
   query,
   BodyRenderer,
   textRenderer
@@ -42,7 +42,7 @@ class BlogPost extends React.Component {
                 <div className="beer-data">
                   <div className="flex flex--between">
                     <span className="label">Brygget</span>
-                    <span className="data">{page.node.date}</span>
+                    <span className="data">{page.node.brewed}</span>
                   </div>
                   <div className="flex flex--between mar--b">
                     <span className="label">Flasket</span>
@@ -83,7 +83,7 @@ class BlogPost extends React.Component {
   }
 }
 
-const BlogPostContainer = createContainer(BlogPost, props => ({
+const BlogPostContainer = withPhenomicApi(BlogPost, props => ({
   page: query({ path: 'posts', id: props.params.splat })
 }));
 
