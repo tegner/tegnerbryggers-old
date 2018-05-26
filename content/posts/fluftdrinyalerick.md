@@ -8,13 +8,14 @@ ibu: "0"
 srm: "n/a"
 abv: "3.8%"
 img: "//tegnerbryggers.beer/images/fluftdrin/fluft-min.jpg"
-untappd: ""
+untappd: "https://untappd.com/b/tegner-bryggers-fluft-drin-yalerick-dwuldom-prastrad-mirpush/2640873"
 images: [
 "//tegnerbryggers.beer/images/fluftdrin/0001-min.jpg",
 "//tegnerbryggers.beer/images/fluftdrin/0002-min.jpg",
 "//tegnerbryggers.beer/images/fluftdrin/0004-min.jpg",
 "//tegnerbryggers.beer/images/fluftdrin/0003-min.jpg",
-"//tegnerbryggers.beer/images/fluftdrin/0005-min.jpg"
+"//tegnerbryggers.beer/images/fluftdrin/0005-min.jpg",
+"//tegnerbryggers.beer/images/fluftdrin/0006-min.jpg"
 ]
 ---
 
