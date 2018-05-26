@@ -1,15 +1,25 @@
 ---
-title: "Light Afternoon Shower"
+title: "Mosekonen brygger"
 date: "2018-05-04"
 brewed: "2018-04-18"
 bottled: "2018-05-04"
 ibu: "18"
 srm: "9"
-abv: "5,4%"
-img: ""
-untappd: ""
+abv: "5.4%"
+img: "//tegnerbryggers.beer/images/myrica/smal-min.jpg"
+untappd: "https://untappd.com/b/tegner-bryggers-mosekonen-brygger/2653398"
 images: [
-
+"//tegnerbryggers.beer/images/myrica/001-mashhop.jpg",
+"//tegnerbryggers.beer/images/myrica/002-mashtemp.jpg",
+"//tegnerbryggers.beer/images/myrica/003-boiladjunct.jpg",
+"//tegnerbryggers.beer/images/myrica/0004-min.jpg",
+"//tegnerbryggers.beer/images/myrica/005-amount.jpg",
+"//tegnerbryggers.beer/images/myrica/0006-min.jpg",
+"//tegnerbryggers.beer/images/myrica/0007-min.jpg",
+"//tegnerbryggers.beer/images/myrica/0008-min.jpg",
+"//tegnerbryggers.beer/images/myrica/0009-min.jpg",
+"//tegnerbryggers.beer/images/myrica/0010-min.jpg",
+"//tegnerbryggers.beer/images/myrica/0011-min.jpg"
 ]
 ---
 
@@ -17,7 +27,10 @@ images: [
 
 ### Malt:
 
-* 4,5 kg Maris Otter
+* 3 kg Pale Malt
+* 2 kg Pilsner
+* 500 gram Havregryn
+* 30 gram Carafa I (900 EBC)
 
 ### Gær:
 
@@ -41,3 +54,7 @@ images: [
 | 10 min. | 9 g. Porse (Myrica Gale)   |
 | 5 dage  | 2,2 g. enebær              |
 | 5 dage  | 4,4 g. Porse (Myrica Gale) |
+
+### Flaskning
+
+750 ml. flaskerne fik 20 dråber Brett C. slurry i flasken.

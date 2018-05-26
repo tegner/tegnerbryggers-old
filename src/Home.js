@@ -24,7 +24,7 @@ const Home = ({ isLoading, posts }) => (
         </Head>
         <div className="home-content">
           <h1>Tegner bryggers</h1>
-          <p>Hjemmebryggeri på Amager</p>
+          <p>Hjemmebryggeri på Amager, startet April 2017</p>
           <p>Dette er en log over det øl der kommer ud af det</p>
         </div>
         <h3 className="list-head">De 5 seneste indlæg</h3>
