@@ -104,7 +104,7 @@ class Menu extends React.Component {
 }
 
 const MenuContainer = withPhenomicApi(Menu, props => ({
-  posts: query({ path: 'posts', limit: 12 })
+  posts: query({ path: 'content/posts', limit: 12 })
 }));
 
 export { MenuContainer, Menu };

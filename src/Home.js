@@ -58,7 +58,7 @@ const Home = ({ isLoading, posts }) => (
 );
 
 const HomeContainer = withPhenomicApi(Home, props => ({
-  posts: query({ path: 'posts', limit: 5, after: props.params.after })
+  posts: query({ path: 'content/posts', limit: 5, after: props.params.after })
 }));
 
 export { HomeContainer };

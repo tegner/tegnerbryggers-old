@@ -84,7 +84,7 @@ class BlogPost extends React.Component {
 }
 
 const BlogPostContainer = withPhenomicApi(BlogPost, props => ({
-  page: query({ path: 'posts', id: props.params.splat })
+  page: query({ path: 'content/posts', id: props.params.splat })
 }));
 
 export { BlogPostContainer };
