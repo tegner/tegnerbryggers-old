@@ -25,16 +25,16 @@ New England style Pale Ale brygget i anledning af Marianne og Mortens bryllup 7/
 
 Hele batchet blev serveret på fad.
 
-## Proces
+# Proces
 
 Brygget efter [short and shoddy](http://brulosophy.com/projects/short-shoddy/) metoden, dog med 30 minutter afsat til mash og kogning, hver især. Den metode kommer jeg nok til at bruge en del mere i fremtiden.
 
-### Malt:
+## Malt
 
 * 5 kg Maris Otter
 * 500 g Havregryn
 
-### Gær:
+## Gær
 
 * London III, Wyeast #1318
 
@@ -43,7 +43,7 @@ Brygget efter [short and shoddy](http://brulosophy.com/projects/short-shoddy/) m
 | OG: | 1.046 |
 | TG: | 1.011 |
 
-### Humle:
+## Humle
 
 | Tid                                | Mængde og Humle     |
 | ---------------------------------- | ------------------- |

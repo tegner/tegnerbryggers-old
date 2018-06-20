@@ -20,38 +20,34 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
 Tænkt som en SMaSH Session IPA med Maris Otter og Mosaic, dog er der brugt en lille smule magnum som bitterhumle
 
 Oprindeligt brygget i anledning af Christians polterabend
 
-### Vandbehandling:
+## Vandbehandling
 
 5 liter destilleret vand
 
-### Malt:
+## Malt
 
 * 4,5 kg Maris Otter
 
-### Gær:
+## Gær
 
 * 2 pakker California Ale #WLP001
 
-### Humle:
+## Humle
 
-**Bitter Humle**:
+| Tid     | Mængde og Humle |
+| ------- | --------------- |
+| 60 min. | 30 g. Magnum    |
+| 15 min. | 25 g. Mosaic    |
+| 5 min.  | 20 g. Mosaic    |
 
-60 min.
-30 g. Magnum
+### Tørhumle
 
-15 min.
-25 g. Mosaic
-
-5 min.
-20 g. Mosaic
-
-**Tørhumle**:
 50 g. Mosaic
 39 g. Mosaic
 69 g. Mosaic

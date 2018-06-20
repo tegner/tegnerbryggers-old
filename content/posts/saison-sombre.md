@@ -19,16 +19,16 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
 Lavet af urtrester fra Saison Sans Nom og maltrester
 
-### Gær
+## Gær
 
 * American Farmhouse Blend #WLP670
 
-- OG: 1.046
-- TG: 1.008
+* OG: 1.046
+* TG: 1.008
 
 Lagret en uge på rødvins egespåner inden flaskning
 

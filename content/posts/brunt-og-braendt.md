@@ -15,27 +15,27 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
 Julebryg 2017, brygget med tilsætninger i håb om at kunne skabe en duft af jul fra mandlerne og appelsinskallen.
 
-### Malt:
+## Malt
 
 * 5 kg Fuglsang Munchner
 * 1 kg Fuglsang Pilsner
 * 500 g Brun farin
 
-### Gær:
+## Gær
 
 * American Ale Yeast Blend #WLP060
 
-### Humle:
+## Humle
 
 | Tid     | Mængde og Humle                 |
 | ------- | ------------------------------- |
 | 60 min. | 50 gram Hallertauer Mittelfrueh |
 
-### Tilsætninger
+## Tilsætninger
 
 5 min.
 350 g ristede mandler

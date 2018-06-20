@@ -16,9 +16,9 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
-### Malt:
+## Malt
 
 * 6 kg Pale malt
 * 2 kg Munchner Malt
@@ -26,25 +26,25 @@ images: [
 * ,4 kg Sukker
 * ,5 kg Lactose
 
-### Gær:
+## Gær
 
 * English Ale, #WLP002
 
-### Humle:
+## Humle
 
 | Tid     | Mængde og Humle          |
 | ------- | ------------------------ |
 | 60 min. | 50 g. East Kent Goldings |
 | 60 min. | 28 g. Magnum             |
 
-OG: 1.080
-TG: 1.022
+* OG: 1.080
+* TG: 1.022
 
-###
+## Efterbehandling
 
 Brygget delt i to.
 Den ene fik tilsat 1,5 vanille stang
 
 As GoB ruined the act\*, by washing the color out of Franklin, making him a white freckled(british-speaking) version of his old self, as is this Sweet White Vanilla Stout freckled with black seeds from the vanilla is has been conditioned upon.
 
-* Arrested Development (S2, Ep18) "Righteous Brothers"
+* \* Arrested Development (S2, Ep18) "Righteous Brothers"

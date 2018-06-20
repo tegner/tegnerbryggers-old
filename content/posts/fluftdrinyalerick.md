@@ -29,18 +29,18 @@ Det er en sætning der bruges til at bede om lov til at have en tolk til stede v
 
 Her er citatet brugt som reference til at øllet er fermenteret med "andres" gær, da det er fermenteret med opdyrkede dregs fra en Lambic.
 
-## Proces
+# Proces
 
 Urten er overskyende runoff fra et tidligere bryg
 
-### Gær:
+## Gær
 
 dregs fra Oud Beersel Lambic
 
 * OG: 1.030
 * TG: 1.001
 
-### Humle:
+## Humle
 
 | Tid    | Mængde og Humle |
 | ------ | --------------- |

@@ -15,13 +15,13 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
-### Vandbehandling:
+## Vandbehandling
 
 Ingen
 
-### Malt:
+## Malt
 
 * 6 kg Pale malt
 * 2 kg Munchner Malt
@@ -29,11 +29,11 @@ Ingen
 * ,4 kg Sukker
 * ,5 kg Lactose
 
-### Gær:
+## Gær
 
 * English Ale, #WLP002
 
-### Humle:
+## Humle
 
 | Tid     | Mængde og Humle          |
 | ------- | ------------------------ |
@@ -43,6 +43,6 @@ Ingen
 OG: 1.080
 TG: 1.022
 
-###
+## Tilsætninger
 
 Tilsat rødgrød lavet af jordbær, hindbær og ribs

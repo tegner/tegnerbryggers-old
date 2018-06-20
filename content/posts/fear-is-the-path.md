@@ -19,15 +19,15 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
-### Malt:
+## Malt
 
 * 5 kg Pale malt
 * 500 g Havregryn
 * 200 g Carafa I (900 EBC)
 
-### Gær:
+## Gær
 
 * Irish Ale, #WLP004
 * London Ale, #WLP013
@@ -37,7 +37,7 @@ Lavet 1 liter starter af hver, dekanteret inden de blev tilføjet urten
 OG: 1.056
 TG: 1.018
 
-### Humle:
+## Humle
 
 | Tid        | Mængde og Humle |
 | ---------- | --------------- |

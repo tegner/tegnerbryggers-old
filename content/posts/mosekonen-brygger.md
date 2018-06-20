@@ -23,23 +23,23 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
-### Malt:
+## Malt
 
 * 3 kg Pale Malt
 * 2 kg Pilsner
 * 500 gram Havregryn
 * 30 gram Carafa I (900 EBC)
 
-### Gær:
+## Gær
 
 2 pakker Mangrove Jack's French Saison Ale #M29
 
 * OG: 1.043
 * TG: 1.002
 
-### Humle:
+## Humle
 
 | Tid     | Mængde og Humle |
 | ------- | --------------- |
