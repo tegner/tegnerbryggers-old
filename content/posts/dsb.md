@@ -16,25 +16,25 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
 Brygget med maltrester fra Mr. White IPA tilsat crystal malt
 
-### Vandbehandling:
+## Vandbehandling
 
 5 liter destilleret vand
 
-### Malt:
+## Malt
 
 * 3 kg Fuglsang Pale malt
 * 1,5 kg Pilsner
 * 1 kg Crystal Rye (200 EBC)
 
-### Gær:
+## Gær
 
 * British Ale, #WLP005
 
-### Humle:
+## Humle
 
 | Tid     | Mængde og Humle |
 | ------- | --------------- |

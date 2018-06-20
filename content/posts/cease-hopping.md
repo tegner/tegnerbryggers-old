@@ -17,32 +17,32 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
-### Vandbehandling:
+## Vandbehandling
 
 5 liter destilleret vand
 
-### Malt:
+## Malt
 
 * 5 kg Pale malt
 * 1 kg Torrified wheat
 * 500 g Havre flager
 * 650 g sukker
 
-### Gær:
+## Gær
 
 * California Ale, #WLP001
 * British Ale, #WLP005
 
-### Humle:
+## Humle
 
 | Tid       | Mængde og Humle |
 | --------- | --------------- |
 | 60 min.   | 20 g. Amarillo  |
 | Whirlpool | 70 g. Citra     |
 
-**Tørhumle**:
+### Tørhumle
 
 130 g Citra
 100 g El Dorado

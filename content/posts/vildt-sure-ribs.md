@@ -16,15 +16,15 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
-### Malt:
+## Malt
 
 * 2,6 kg Fuglsang Pilsner malt
 * 1,6 kg Wheat Malt
 * 300 g sukker
 
-### Gær:
+## Gær
 
 * Indholdet af 25 kapsler Symbioflor
 * ,5 Lactobacillus Brevis #WLP672

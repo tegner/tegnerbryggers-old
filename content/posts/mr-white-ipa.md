@@ -19,23 +19,23 @@ images: [
 
 Første bryg! Brygget i fællesskab med Krystian, så jeg kunne lære processen.
 
-## Proces
+# Proces
 
-### Vandbehandling:
+## Vandbehandling
 
 5 liter destilleret vand
 
-### Malt:
+## Malt
 
 * 3,5 kg Pilsner malt
 * 3 kg Pale Malt
 * 1 kg hvede flager
 
-### Gær:
+## Gær
 
 * London III Wyeast Labs #1318
 
-### Humle:
+## Humle
 
 | Tid     | Mængde og Humle |
 | ------- | --------------- |
@@ -44,6 +44,7 @@ Første bryg! Brygget i fællesskab med Krystian, så jeg kunne lære processen.
 | 15 min. | 40 g. Citra     |
 | 15 min. | 20 g. Mosaic    |
 
-**Tørhumle**:
+### Tørhumle
+
 63 g. Mosaic
 61 g. Citra

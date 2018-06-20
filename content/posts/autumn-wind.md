@@ -18,28 +18,28 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
 Lavet på runoff fra brunt og brændt
 
 Tilsat 200 gram brun farin ved kogning
 
-### Gær
+## Gær
 
 * American Ale Yeast Blend #WLP060
 
-### Humle:
+## Humle
 
 | Tid     | Mængde og Humle                 |
 | ------- | ------------------------------- |
 | 60 min. | 20 gram Hallertauer Mittelfrueh |
 
-### Tilsætninger
+## Tilsætninger
 
 krydderi blanding af stødt ingefær, kanel, kardemomme, allehånde, nelliker og stjerne anis
 Halv kanelstang
 
-### Historie
+## Historie
 
 Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra Oakland Raiders digtet af samme navn
 
@@ -54,10 +54,10 @@ Navnet kommer af tidspunktet af året det blev brygget, og med inspiration fra O
 * With a silver hat about his head,
 * And a bristling black mustache.
 
-- He growls as he storms the country,
-- A villain big and bold.
-- And the trees all shake and quiver and quake,
-- As he robs them of their gold.
+* He growls as he storms the country,
+* A villain big and bold.
+* And the trees all shake and quiver and quake,
+* As he robs them of their gold.
 
 * The Autumn Wind is a Raider,
 * Pillaging just for fun.

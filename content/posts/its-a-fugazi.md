@@ -19,31 +19,31 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
-### Vandbehandling
+## Vandbehandling
 
 6 liter destilleret vand
 
-### Malt
+## Malt
 
 * 5 kg Fuglsang Pale malt
 * 500 g Havregryn fra Gram Slot
 
-### Gær
+## Gær
 
 * California Ale #WLP001
 * London Ale #WLP013
 
 Lavet starter på begge, 1 liter urt 1.030
 
-### Humle:
+## Humle
 
 | Tid                  | Mængde og Humle |
 | -------------------- | --------------- |
 | First wort - 60 min. | 25 gram Aurora  |
 
-**Tørhumle**
+### Tørhumle
 
 * 200 gram Zythos, 1 dag efter fermentering start, fjernet efter 3 dage
 * 200 gram Zythos, 4 dage efter fermentering start, fjernet efter 3 dage

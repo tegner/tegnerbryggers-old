@@ -17,19 +17,19 @@ images: [
 ]
 ---
 
-## Proces
+# Proces
 
-### Malt
+## Malt
 
 * 3,5 kg Castle Malting Pilsner
 * 1,5 kg Castle Malting Spelt Malt
 * 500 g Castle Malting Wheat
 
-### Gær
+## Gær
 
 * Belgian Saison Wyeast Labs #3724
 
-### Humle:
+## Humle
 
 | Tid     | Mængde og Humle  |
 | ------- | ---------------- |
