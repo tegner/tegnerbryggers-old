@@ -9,7 +9,7 @@ srm: "9"
 abv: "N/A"
 img: "//tegnerbryggers.beer/images/cerisier/cerisier-smal.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-fruit-du-cerisier/2709357"
-images: []
+images: ["//tegnerbryggers.beer/images/cerisier/cerisier-0000.jpg"]
 ---
 
 # Proces
