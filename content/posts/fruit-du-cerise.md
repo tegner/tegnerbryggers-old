@@ -1,13 +1,13 @@
 ---
-title: "You've Ruined the act GoB"
-date: "2017-07-22"
+title: "Fruit du Cerisier"
+date: "2018-05-26"
 brewed: "2017-07-08"
-bottled: "2017-07-22"
-batch: "20170708-2a"
-ibu: "40"
+bottled: "2018-05-26"
+batch: "20170708-1a"
+ibu: "18"
 srm: "9"
 abv: "N/A"
-img: "//tegnerbryggers.beer/images/ruinedtheact/youveruinedtheact.jpg"
+img: "//tegnerbryggers.beer/images/cerisier/cerisier-smal.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-fruit-du-cerisier/2709357"
 images: []
 ---
@@ -16,15 +16,13 @@ images: []
 
 ## Malt
 
-* 6 kg Pale malt
-* 2 kg Munchner Malt
-* ,5 kg byg flager
-* ,4 kg Sukker
-* ,5 kg Lactose
+* 3 kg Fuglsang Pilsner
+* 2 kg Fuglsang Munchner Malt
+* 1 kg CaraMunich Type 1 (90 EBC)
 
 ## Gær
 
-
+* Roselare Belgian Blend (Wyeast #3763)
 
 ## Humle
 
@@ -36,6 +34,13 @@ images: []
 OG: 1.080
 TG: 1.022
 
-##
+## Efterbehandling
 
 Brygget delt i to.
+
+| Dato       | Behandling               |
+| ---------- | ------------------------ |
+| 13-08-2017 | 14 gram helt nye franske mellemristede egechips i en uge, i starten af fermenteringen |
+| 24-12-2017 | Frosne kirsebær, selvplukkede, både vilde og dyrkede tilføjet |
+| 04-05-2018 | Tilføjet 3 dl. hjemmelavet kirsebærvin |
+| 26-05-2018 | flasket med 35 gram sukker og en teske ale gær |
