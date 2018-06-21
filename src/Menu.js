@@ -5,6 +5,7 @@ import { withPhenomicApi, query } from "@phenomic/preset-react-app/lib/client";
 class Menu extends React.Component {
   constructor(props) {
     super(props);
+    console.log("menu props", props);
     this.state = {
       closed: true
     };
@@ -16,10 +17,10 @@ class Menu extends React.Component {
   }
 
   componentWillReceiveProps(nextProps) {
-    // console.log("componentWillReceiveProps", nextProps.name, this.props.name);
-    // if (this.props.name !== nextProps.name) {
-    this.setState({ closed: true });
-    // }
+    console.log("componentWillReceiveProps", nextProps, this.props);
+    if (this.props.postName !== nextProps.postName) {
+      this.setState({ closed: true });
+    }
   }
 
   shouldComponentUpdate(nextProps, nextState) {
