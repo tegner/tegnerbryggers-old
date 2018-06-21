@@ -3,6 +3,7 @@ import { Link } from 'react-router';
 import { withPhenomicApi, query } from '@phenomic/preset-react-app/lib/client';
 import { Layout } from './Layout';
 import { BigLink } from './BigLink';
+import { PageHead } from './PageHead';
 
 const PostList = ({ hasError, isLoading, posts }) => {
   if (hasError) {
@@ -10,7 +11,11 @@ const PostList = ({ hasError, isLoading, posts }) => {
   }
 
   return (
-    <Layout>
+    <Layout name="allposts">
+      <PageHead
+        title="Tegner Bryggers - Alle indlæg"
+        description="Liste over alle indlæg"
+      />
       <h1 className="list-head">Alle indlæg</h1>
       {isLoading && 'Loading...'}
       {!isLoading &&

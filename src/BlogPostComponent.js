@@ -1,12 +1,12 @@
-import React from "react";
-import Head from "react-helmet";
+import React from 'react';
 import {
   withPhenomicApi,
   query,
   BodyRenderer,
   textRenderer
-} from "@phenomic/preset-react-app/lib/client";
-import { Layout } from "./Layout";
+} from '@phenomic/preset-react-app/lib/client';
+import { Layout } from './Layout';
+import { PageHead } from './PageHead';
 
 class BlogPost extends React.Component {
   constructor(props) {
@@ -22,13 +22,10 @@ class BlogPost extends React.Component {
         {!isLoading &&
           page.node && (
             <Layout name={page.node.batch}>
-              <Head>
-                <title>Tegner bryggers - {page.node.title}</title>
-                <meta
-                  name="description"
-                  content={textRenderer(page.node.body).slice(0, 150) + "…"}
-                />
-              </Head>
+              <PageHead
+                title={'Tegner bryggers -' + page.node.title}
+                description={textRenderer(page.node.body).slice(0, 150) + '…'}
+              />
               <article>
                 <header className="post-header">
                   <h1>{page.node.title}</h1>
@@ -81,7 +78,7 @@ class BlogPost extends React.Component {
 }
 
 const BlogPostContainer = withPhenomicApi(BlogPost, props => ({
-  page: query({ path: "posts", id: props.params.splat })
+  page: query({ path: 'posts', id: props.params.splat })
 }));
 
 export { BlogPostContainer };
