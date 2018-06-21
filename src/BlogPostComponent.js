@@ -1,6 +1,5 @@
 import React from 'react';
 import Head from 'react-helmet';
-import { Router, Route, browserHistory, Link } from 'react-router';
 import {
   withPhenomicApi,
   query,
@@ -8,8 +7,6 @@ import {
   textRenderer
 } from '@phenomic/preset-react-app/lib/client';
 import { Layout } from './Layout';
-import { PageError } from './PageError';
-import { Menu, MenuContainer } from './Menu';
 
 class BlogPost extends React.Component {
   constructor(props) {
@@ -19,7 +16,7 @@ class BlogPost extends React.Component {
   componentDidMount() {}
 
   render() {
-    const { hasError, isLoading, page, posts } = this.props;
+    const { isLoading, page } = this.props;
     return (
       <div>
         {!isLoading &&

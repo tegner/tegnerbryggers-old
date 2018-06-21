@@ -1,16 +1,8 @@
 import React from 'react';
-import Head from 'react-helmet';
-import { Router, Route, browserHistory, Link } from 'react-router';
-import {
-  createApp,
-  withPhenomicApi,
-  query,
-  BodyRenderer,
-  textRenderer
-} from '@phenomic/preset-react-app/lib/client';
+import { Link } from 'react-router';
+import { withPhenomicApi, query } from '@phenomic/preset-react-app/lib/client';
 import { Layout } from './Layout';
 import { BigLink } from './BigLink';
-import { MenuToggler } from './Menu';
 
 const PostList = ({ hasError, isLoading, posts }) => {
   if (hasError) {

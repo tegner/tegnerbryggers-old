@@ -1,6 +1,5 @@
 import React from 'react';
-import Head from 'react-helmet';
-import { Router, Route, browserHistory, Link } from 'react-router';
+import { Link } from 'react-router';
 
 const BigLink = ({ props }) => (
   <Link

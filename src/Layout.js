@@ -1,7 +1,6 @@
 import React from 'react';
 import Head from 'react-helmet';
 import { Logo } from './Logo';
-// import '../public/css/style.css'
 import { MenuContainer } from './Menu';
 import { Styling } from './Styling';
 
@@ -13,6 +12,7 @@ const Layout = props => {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link href="/favicon.png" rel="icon" type="image/png" />
+        <Styling />
       </Head>
       <header className="header">
         <a href="/" className="header-logo">

@@ -1,13 +1,7 @@
 import React from 'react';
 import Head from 'react-helmet';
-import { Router, Route, browserHistory, Link } from 'react-router';
-import {
-  createApp,
-  withPhenomicApi,
-  query,
-  BodyRenderer,
-  textRenderer
-} from '@phenomic/preset-react-app/lib/client';
+import { Link } from 'react-router';
+import { withPhenomicApi, query } from '@phenomic/preset-react-app/lib/client';
 import { Layout } from './Layout';
 import { BigLink } from './BigLink';
 
@@ -62,14 +56,3 @@ const HomeContainer = withPhenomicApi(Home, props => ({
 }));
 
 export { HomeContainer };
-
-// <div>
-//   {posts.node &&
-//     posts.node.next && (
-//       <Link to={`/after/${posts.node.next}/`}>Older posts</Link>
-//   )}
-//   {posts.node &&
-//     posts.node.previous && (
-//       <Link to={posts.node.previousPageIsFirst ? `/` : `/after/${posts.node.previous}/`}>Newer posts</Link>
-//     )}
-// </div>

@@ -1,6 +1,7 @@
 .biglink {
   align-items: flex-end;
   background: #888;
+  background-position: center;
   color: #000;
   display: flex;
   font-size: 18px;
