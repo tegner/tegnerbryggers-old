@@ -1,19 +1,12 @@
 import React from 'react';
 import Head from 'react-helmet';
 import { Logo } from './Logo';
-// import '../public/css/style.css'
 import { MenuContainer } from './Menu';
 import { Styling } from './Styling';
 
 const Layout = props => {
   return (
     <div className="blog page-container">
-      <Head>
-        <html lang="en" /> {/* this is valid react-helmet usage! */}
-        <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link href="/favicon.png" rel="icon" type="image/png" />
-      </Head>
       <header className="header">
         <a href="/" className="header-logo">
           <Logo />

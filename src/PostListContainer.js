@@ -1,16 +1,9 @@
 import React from 'react';
-import Head from 'react-helmet';
-import { Router, Route, browserHistory, Link } from 'react-router';
-import {
-  createApp,
-  withPhenomicApi,
-  query,
-  BodyRenderer,
-  textRenderer
-} from '@phenomic/preset-react-app/lib/client';
+import { Link } from 'react-router';
+import { withPhenomicApi, query } from '@phenomic/preset-react-app/lib/client';
 import { Layout } from './Layout';
 import { BigLink } from './BigLink';
-import { MenuToggler } from './Menu';
+import { PageHead } from './PageHead';
 
 const PostList = ({ hasError, isLoading, posts }) => {
   if (hasError) {
@@ -18,7 +11,11 @@ const PostList = ({ hasError, isLoading, posts }) => {
   }
 
   return (
-    <Layout>
+    <Layout name="allposts">
+      <PageHead
+        title="Tegner Bryggers - Alle indlæg"
+        description="Liste over alle indlæg"
+      />
       <h1 className="list-head">Alle indlæg</h1>
       {isLoading && 'Loading...'}
       {!isLoading &&
@@ -54,7 +51,7 @@ const PostList = ({ hasError, isLoading, posts }) => {
 };
 
 const PostListContainer = withPhenomicApi(PostList, props => ({
-  posts: query({ path: 'content/posts', limit: 12, after: props.params.after })
+  posts: query({ path: 'posts', limit: 12, after: props.params.after })
 }));
 
 export { PostListContainer };

@@ -1,6 +1,4 @@
 import React from 'react';
-import Head from 'react-helmet';
-import { Router, Route, browserHistory, Link } from 'react-router';
 import {
   withPhenomicApi,
   query,
@@ -8,8 +6,7 @@ import {
   textRenderer
 } from '@phenomic/preset-react-app/lib/client';
 import { Layout } from './Layout';
-import { PageError } from './PageError';
-import { Menu, MenuContainer } from './Menu';
+import { PageHead } from './PageHead';
 
 class BlogPost extends React.Component {
   constructor(props) {
@@ -19,19 +16,16 @@ class BlogPost extends React.Component {
   componentDidMount() {}
 
   render() {
-    const { hasError, isLoading, page, posts } = this.props;
+    const { isLoading, page } = this.props;
     return (
       <div>
         {!isLoading &&
           page.node && (
-            <Layout>
-              <Head>
-                <title>Tegner bryggers - {page.node.title}</title>
-                <meta
-                  name="description"
-                  content={textRenderer(page.node.body).slice(0, 150) + '…'}
-                />
-              </Head>
+            <Layout name={page.node.batch}>
+              <PageHead
+                title={'Tegner bryggers -' + page.node.title}
+                description={textRenderer(page.node.body).slice(0, 150) + '…'}
+              />
               <article>
                 <header className="post-header">
                   <h1>{page.node.title}</h1>
@@ -84,7 +78,7 @@ class BlogPost extends React.Component {
 }
 
 const BlogPostContainer = withPhenomicApi(BlogPost, props => ({
-  page: query({ path: 'content/posts', id: props.params.splat })
+  page: query({ path: 'posts', id: props.params.splat })
 }));
 
 export { BlogPostContainer };

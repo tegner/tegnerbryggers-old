@@ -1,33 +1,11 @@
 import React from 'react';
-import Head from 'react-helmet';
-import { Router, Route, browserHistory, Link } from 'react-router';
-import {
-  createApp,
-  withPhenomicApi,
-  query,
-  BodyRenderer,
-  textRenderer
-} from '@phenomic/preset-react-app/lib/client';
-
-const MenuToggler = function(ev, obj) {
-  if (ev) {
-    ev.preventDefault();
-    ev.stopPropagation();
-  }
-
-  let menuElement = document.getElementById('menu');
-  if (menuElement !== null) {
-    if (obj && obj.onlyClose) {
-      menuElement.classList.remove('menu--opened');
-    } else {
-      menuElement.classList.toggle('menu--opened');
-    }
-  }
-};
+import { Link } from 'react-router';
+import { withPhenomicApi, query } from '@phenomic/preset-react-app/lib/client';
 
 class Menu extends React.Component {
   constructor(props) {
     super(props);
+    console.log('menu props', props);
     this.state = {
       closed: true
     };
@@ -39,7 +17,8 @@ class Menu extends React.Component {
   }
 
   componentWillReceiveProps(nextProps) {
-    if (this.props.name !== nextProps.name) {
+    console.log('componentWillReceiveProps', nextProps, this.props);
+    if (this.props.postName !== nextProps.postName) {
       this.setState({ closed: true });
     }
   }
@@ -104,7 +83,7 @@ class Menu extends React.Component {
 }
 
 const MenuContainer = withPhenomicApi(Menu, props => ({
-  posts: query({ path: 'content/posts', limit: 12 })
+  posts: query({ path: 'posts', limit: 12 })
 }));
 
 export { MenuContainer, Menu };
