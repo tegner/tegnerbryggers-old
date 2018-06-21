@@ -1,6 +1,6 @@
-import React from 'react';
-import { Link } from 'react-router';
-import { withPhenomicApi, query } from '@phenomic/preset-react-app/lib/client';
+import React from "react";
+import { Link } from "react-router";
+import { withPhenomicApi, query } from "@phenomic/preset-react-app/lib/client";
 
 class Menu extends React.Component {
   constructor(props) {
@@ -16,9 +16,10 @@ class Menu extends React.Component {
   }
 
   componentWillReceiveProps(nextProps) {
-    if (this.props.name !== nextProps.name) {
-      this.setState({ closed: true });
-    }
+    // console.log("componentWillReceiveProps", nextProps.name, this.props.name);
+    // if (this.props.name !== nextProps.name) {
+    this.setState({ closed: true });
+    // }
   }
 
   shouldComponentUpdate(nextProps, nextState) {
@@ -35,7 +36,7 @@ class Menu extends React.Component {
         {!isLoading && (
           <nav
             id="menu"
-            className={this.state.closed ? 'menu' : 'menu menu--opened'}
+            className={this.state.closed ? "menu" : "menu menu--opened"}
           >
             <ul className="menu-list">
               <li className="menu-item">
@@ -69,7 +70,7 @@ class Menu extends React.Component {
                 <title>angle</title>
                 <polygon
                   points="23.87 226.82 0 202.96 89.55 113.41 0 23.87 23.87 0 137.28 113.41 23.87 226.82"
-                  style={{ fill: '#231f20' }}
+                  style={{ fill: "#231f20" }}
                 />
               </svg>
             </div>
@@ -81,7 +82,7 @@ class Menu extends React.Component {
 }
 
 const MenuContainer = withPhenomicApi(Menu, props => ({
-  posts: query({ path: 'content/posts', limit: 12 })
+  posts: query({ path: "posts", limit: 12 })
 }));
 
 export { MenuContainer, Menu };

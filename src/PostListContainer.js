@@ -46,7 +46,7 @@ const PostList = ({ hasError, isLoading, posts }) => {
 };
 
 const PostListContainer = withPhenomicApi(PostList, props => ({
-  posts: query({ path: 'content/posts', limit: 12, after: props.params.after })
+  posts: query({ path: 'posts', limit: 12, after: props.params.after })
 }));
 
 export { PostListContainer };
