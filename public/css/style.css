@@ -16,7 +16,17 @@ li {
 }
 
 li {
+  list-style-type: circle;
+  list-style-position: inside;
   margin: 0 0 5px;
+  padding: 0 0 0 5px;
+}
+
+li p {
+  /**
+  * Why this is even an option is stupider than jupiter
+  */
+  display: inline;
 }
 
 header,

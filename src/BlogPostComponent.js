@@ -54,7 +54,11 @@ class BlogPost extends React.Component {
                     <span className="label">ABV</span>
                     <span className="data">{page.node.abv}</span>
                   </div>
-                  {page.node.untappd && <a href={page.node.untappd}>untappd</a>}
+                  {page.node.untappd && (
+                    <a href={page.node.untappd} target="_blank">
+                      untappd
+                    </a>
+                  )}
                 </div>
                 <div className="beer-body">
                   <BodyRenderer>{page.node.body}</BodyRenderer>
