@@ -9,7 +9,12 @@ srm: "2"
 abv: "7.1"
 img: "//tegnerbryggers.beer/images/sharkweek/sharkweek-smal.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-live-every-week-like-it-s-shark-week/2710920"
-images: ["//tegnerbryggers.beer/images/sharkweek/sharkweek-0000.jpg"]
+images: [
+    "//tegnerbryggers.beer/images/sharkweek/sharkweek-0000.jpg",
+    "//tegnerbryggers.beer/images/sharkweek/0001.jpg",
+    "//tegnerbryggers.beer/images/sharkweek/0002.jpg",
+    "//tegnerbryggers.beer/images/sharkweek/0006.jpg"
+]
 ---
 
 # Proces
@@ -27,6 +32,9 @@ images: ["//tegnerbryggers.beer/images/sharkweek/sharkweek-0000.jpg"]
 * Brett Clausenii, høstet fra tidligere batch
 * French Saison gær, høstet fra tidligere batch
 
+* OG: 1.052
+* TG: 1.000
+
 ## Humle
 
 | Tid     | Mængde og Humle   |
@@ -36,9 +44,6 @@ images: ["//tegnerbryggers.beer/images/sharkweek/sharkweek-0000.jpg"]
 ### Tørhumle
 
 20 gram Strisslespalt, 2 dage
-
-* OG: 1.052
-* TG: 1.000
 
 ## Tilsætninger
 

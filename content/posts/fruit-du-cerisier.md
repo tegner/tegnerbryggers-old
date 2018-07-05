@@ -9,7 +9,13 @@ srm: "9"
 abv: "N/A"
 img: "//tegnerbryggers.beer/images/cerisier/cerisier-smal.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-fruit-du-cerisier/2709357"
-images: ["//tegnerbryggers.beer/images/cerisier/cerisier-0000.jpg"]
+images: [
+    "//tegnerbryggers.beer/images/cerisier/cerisier-0001.jpg",
+    "//tegnerbryggers.beer/images/cerisier/cerisier-0002.jpg",
+    "//tegnerbryggers.beer/images/cerisier/cerisier-0000.jpg",
+    "//tegnerbryggers.beer/images/cerisier/0003.jpg",
+    "//tegnerbryggers.beer/images/cerisier/0005.jpg",
+]
 ---
 
 # Proces
@@ -24,15 +30,19 @@ images: ["//tegnerbryggers.beer/images/cerisier/cerisier-0000.jpg"]
 
 * Roselare Belgian Blend (Wyeast #3763)
 
+* OG: 1.052
+* TG: 1.011
+
+Det er ikke umiddelbart muligt at angive ABV,
+da der er hældt kirsebærvin og kirsebær i,
+begge kun med ca mængde og kirsebærvinen har jeg ikke målt ABV på.
+
 ## Humle
 
 | Tid     | Mængde og Humle          |
 | ------- | ------------------------ |
 | 60 min. | 50 g. East Kent Goldings |
 | 60 min. | 28 g. Magnum             |
-
-OG: 1.080
-TG: 1.022
 
 ## Efterbehandling
 
