@@ -20,7 +20,8 @@ images: [
 "//tegnerbryggers.beer/images/myrica/0008-min.jpg",
 "//tegnerbryggers.beer/images/myrica/0009-min.jpg",
 "//tegnerbryggers.beer/images/myrica/0010-min.jpg",
-"//tegnerbryggers.beer/images/myrica/0011-min.jpg"
+"//tegnerbryggers.beer/images/myrica/0011-min.jpg",
+"//tegnerbryggers.beer/images/myrica/IMG_0609.jpg"
 ]
 ---
 
