@@ -15,7 +15,9 @@ images: [
 "//tegnerbryggers.beer/images/fluftdrin/0004-min.jpg",
 "//tegnerbryggers.beer/images/fluftdrin/0003-min.jpg",
 "//tegnerbryggers.beer/images/fluftdrin/0005-min.jpg",
-"//tegnerbryggers.beer/images/fluftdrin/0006-min.jpg"
+"//tegnerbryggers.beer/images/fluftdrin/0006-min.jpg",
+"//tegnerbryggers.beer/images/fluftdrin/Image-1.jpg",
+"//tegnerbryggers.beer/images/fluftdrin/007.jpg"
 ]
 ---
 
