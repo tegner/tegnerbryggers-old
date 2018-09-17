@@ -17,7 +17,8 @@ images: [
 "//tegnerbryggers.beer/images/afternoonshower/20170810_133510.jpg",
 "//tegnerbryggers.beer/images/afternoonshower/aviary-image-1501325827610.jpg",
 "//tegnerbryggers.beer/images/afternoonshower/IMG_20170711_220616_736.jpg",
-"//tegnerbryggers.beer/images/afternoonshower/IMG_20170711_222024_954.jpg"
+"//tegnerbryggers.beer/images/afternoonshower/IMG_20170711_222024_954.jpg",
+"//tegnerbryggers.beer/images/afternoonshower/180917_001-min.jpg"
 ]
 ---
 

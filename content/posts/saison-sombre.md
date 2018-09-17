@@ -15,7 +15,11 @@ images: [
 "//tegnerbryggers.beer/images/saisonsombre/saison-sombre-03-min.jpg",
 "//tegnerbryggers.beer/images/saisonsombre/saison-sombre-04-min.jpg",
 "//tegnerbryggers.beer/images/saisonsombre/saison-sombre-05-min.jpg",
-"//tegnerbryggers.beer/images/saisonsombre/saison-sombre-06-min.jpg"
+"//tegnerbryggers.beer/images/saisonsombre/saison-sombre-06-min.jpg",
+"//tegnerbryggers.beer/images/saisonsombre/180917_002-min.jpg",
+"//tegnerbryggers.beer/images/saisonsombre/180917_003-min.jpg",
+"//tegnerbryggers.beer/images/saisonsombre/180917_004-min.jpg",
+"//tegnerbryggers.beer/images/saisonsombre/180917_005-min.jpg"
 ]
 ---
 
