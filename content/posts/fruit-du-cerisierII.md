@@ -5,8 +5,8 @@ brewed: "2018-04-18"
 bottled: "2018-09-16"
 batch: "20180916"
 ibu: "18"
-srm: "9"
-abv: "5.4%"
+srm: ""
+abv: ""
 img: "//tegnerbryggers.beer/images/cerisierII/smal-min.jpg"
 untappd: ""
 images: [
@@ -30,7 +30,11 @@ Lavet af de overskydende ca 9 liter Mosekonen Brygger, da den blev flasket. Malt
 2 pakker Mangrove Jack's French Saison Ale #M29
 
 * OG: 1.043
-* TG: 1.002
+* TG: 1.002 (Mosekonen Brygger)
+
+TG for denne øl efter at flere omgange tilføjelser
+
+* TG: 1.006
 
 ## Humle
 
@@ -48,8 +52,8 @@ Lavet af de overskydende ca 9 liter Mosekonen Brygger, da den blev flasket. Malt
 | 5 dage  | 2,2 g. enebær                  |
 | 5 dage  | 4,4 g. Porse (cerisierII Gale) |
 
-04 05 2018 - Hældt på kirsebær rester fra den første Fruit du Cerisier
-28 07 2018 - Hældt på resterne fra kirsebærvin
+* 04-05-2018 - Hældt på kirsebær rester fra den første Fruit du Cerisier
+* 28-07-2018 - Hældt på resterne fra kirsebærvin
 
 ### Flaskning
 
