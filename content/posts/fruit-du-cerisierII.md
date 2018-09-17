@@ -54,7 +54,12 @@ TG for denne øl efter at flere omgange tilføjelser
 
 * 04-05-2018 - Hældt på kirsebær rester fra den første Fruit du Cerisier
 * 28-07-2018 - Hældt på resterne fra kirsebærvin
+* 28-07-2018 - En skrællet og let brændt kirsebærgren tilføjet
 
 ### Flaskning
 
 Flasket uden tilsætning af sukker eller gær.
+
+### Noter
+
+Ved flaskning; Tannisk and masser af kirsebær smag, kan sammenlignes lidt med en Rancio
