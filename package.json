@@ -25,7 +25,9 @@
     "content": {
       "": {
         "root": "content",
-        "globs": ["**/*"]
+        "globs": [
+          "**/*"
+        ]
       }
     },
     "presets": [
