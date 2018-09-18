@@ -1,6 +1,6 @@
 {
   "name": "tegnerbryggers",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "personal website about homebrewing",
   "main": "index.js",
   "scripts": {
