@@ -7,10 +7,12 @@ batch: "20180916"
 ibu: "18"
 srm: ""
 abv: ""
-img: "//tegnerbryggers.beer/images/cerisierII/smal-min.jpg"
+img: "//tegnerbryggers.beer/images/cerisierII/cerisier-II-smal-min.jpg"
 untappd: ""
 images: [
-"//tegnerbryggers.beer/images/cerisierII/180917_008-min.jpg"
+"//tegnerbryggers.beer/images/cerisierII/180917_008-min.jpg",
+"//tegnerbryggers.beer/images/cerisierII/20180917_183617-min.jpg",
+"//tegnerbryggers.beer/images/cerisierII/20180918_081124-min.jpg"
 ]
 ---
 

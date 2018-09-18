@@ -7,7 +7,7 @@ batch: "20180826"
 ibu: "2"
 srm: "10"
 abv: "6.6%"
-img: "//tegnerbryggers.beer/images/youhaveto/heavy-smal.jpg"
+img: "//tegnerbryggers.beer/images/youhaveto/youhaveto-smal-min.jpg"
 untappd: ""
 images: [
 "//tegnerbryggers.beer/images/youhaveto/180917_006-min.jpg",
