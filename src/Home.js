@@ -23,25 +23,23 @@ const Home = ({ isLoading, posts }) => (
           posts.node &&
           posts.node.list.map(post => <BigLink key={post.id} props={post} />)}
         <div className="flex flex--between flex--nowrap">
-          {posts.node &&
-            posts.node.next && (
-              <Link className="btn-paging" to={`/after/${posts.node.next}/`}>
-                Ældre indlæg
-              </Link>
-            )}
-          {posts.node &&
-            posts.node.previous && (
-              <Link
-                className="btn-paging btn-paging--last"
-                to={
-                  posts.node.previousPageIsFirst
-                    ? `/`
-                    : `/after/${posts.node.previous}/`
-                }
-              >
-                Nyere indlæg
-              </Link>
-            )}
+          {posts.node && posts.node.next && (
+            <Link className="btn-paging" to={`/after/${posts.node.next}/`}>
+              Ældre indlæg
+            </Link>
+          )}
+          {posts.node && posts.node.previous && (
+            <Link
+              className="btn-paging btn-paging--last"
+              to={
+                posts.node.previousPageIsFirst
+                  ? `/`
+                  : `/after/${posts.node.previous}/`
+              }
+            >
+              Nyere indlæg
+            </Link>
+          )}
         </div>
       </Layout>
     )}
