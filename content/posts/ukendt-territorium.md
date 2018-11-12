@@ -29,4 +29,6 @@ Syrnet med lactobacillus kapsler. Efterfølgende tilsat Pediococcus Damnosus og 
 * 6/9  - PH 3.77
 * 21/9 - SG 1000 | Tilsat 500 gr sukker og lidt kogt havre
 * 28/9 - SG 1000
-* 6/10 - Flasket med 250 gram sukker og en teske rødvinsgær
+* 6/10 - SG 1000 |Flasket med 250 gram sukker og en teske rødvinsgær
+
+Navnet er en reference til at det meste i dette bryg er ukendt.
