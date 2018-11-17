@@ -45,4 +45,4 @@ For det fulde parti gyle bryg
 
 | Tid     | Mængde og Humle                                  |
 | ------- | ------------------------------------------------ |
-| 35 min. | 135 g. Agern mel, agern samlet, ristet og malet  |
+| 35 min. | 134 g. Agern mel, agern samlet, ristet og malet  |

@@ -34,5 +34,6 @@ images: [
 
 | Dato       | Tilsætning                                          |
 | ---------- | --------------------------------------------------- |
+| 13-08-2018 | En teske hvidvins-egetræsspåner                     |
 | 13-08-2018 | 300 gram mirabeller, samlet ved sommerhuset         |
 | 13-08-2018 | 500 gram hyben, samlet ved sommerhuset. (Uden sten) |
