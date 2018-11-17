@@ -8,7 +8,7 @@ ibu: "0"
 srm: ""
 abv: "N/A"
 img: "//tegnerbryggers.beer/images/ukendtterritorium/ukendt-smal-min.jpg"
-untappd: ""
+untappd: "https://untappd.com/b/tegner-bryggers-ukendt-territorium/2943613"
 images: [
 "//tegnerbryggers.beer/images/ukendtterritorium/ukendt-0000-min.jpg",
 "//tegnerbryggers.beer/images/ukendtterritorium/ukendt-0001-min.jpg",
