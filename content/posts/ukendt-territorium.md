@@ -7,11 +7,11 @@ batch: "20180826"
 ibu: "0"
 srm: ""
 abv: "N/A"
-img: "//tegnerbryggers.beer/images/youhaveto/youhaveto-smal-min.jpg"
+img: "//tegnerbryggers.beer/images/ukendtterritorium/ukendt-smal-min.jpg"
 untappd: ""
 images: [
-"//tegnerbryggers.beer/images/youhaveto/180917_006-min.jpg",
-"//tegnerbryggers.beer/images/youhaveto/180917_007-min.jpg",
+"//tegnerbryggers.beer/images/ukendtterritorium/ukendt-0000-min.jpg",
+"//tegnerbryggers.beer/images/ukendtterritorium/ukendt-0001-min.jpg",
 ]
 ---
 
