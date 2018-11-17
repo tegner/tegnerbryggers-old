@@ -8,7 +8,7 @@ ibu: "N/A"
 srm: "14"
 abv: "N/A"
 img: "//tegnerbryggers.beer/images/cerisier/cerisier-smal.jpg"
-untappd: "https://untappd.com/b/tegner-bryggers-fruit-du-cerisier/2709357"
+untappd: "https://untappd.com/b/tegner-bryggers-its-just-a-date/2928715"
 images: [
     "//tegnerbryggers.beer/images/cerisier/cerisier-0001.jpg"
 ]
