@@ -7,10 +7,11 @@ batch: "20181027-2"
 ibu: "0"
 srm: "1"
 abv: "N/A"
-img: "//tegnerbryggers.beer/images/cerisier/cerisier-smal.jpg"
+img: "//tegnerbryggers.beer/images/summerspast/summerspast-smal.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-summers-past/2940012"
 images: [
-    "//tegnerbryggers.beer/images/cerisier/cerisier-0001.jpg"
+    "//tegnerbryggers.beer/images/summerspast/190209_010-min.jpg",
+    "//tegnerbryggers.beer/images/summerspast/20181027_190848-min.jpg"
 ]
 ---
 

@@ -7,10 +7,10 @@ batch: "20181027-3"
 ibu: "28"
 srm: "1"
 abv: "4.2"
-img: "//tegnerbryggers.beer/images/cerisier/cerisier-smal.jpg"
+img: "//tegnerbryggers.beer/images/acornfilledstockings/acorn-smal.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-acorn-filled-stockings/2928723"
 images: [
-    "//tegnerbryggers.beer/images/cerisier/cerisier-0001.jpg"
+    "//tegnerbryggers.beer/images/acornfilledstockings/190209_004-min.jpg"
 ]
 ---
 

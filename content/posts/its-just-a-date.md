@@ -7,10 +7,10 @@ batch: "20181027-1"
 ibu: "N/A"
 srm: "14"
 abv: "N/A"
-img: "//tegnerbryggers.beer/images/cerisier/cerisier-smal.jpg"
+img: "//tegnerbryggers.beer/images/justadate/justadate-smal.jpg"
 untappd: "https://untappd.com/b/tegner-bryggers-its-just-a-date/2928715"
 images: [
-    "//tegnerbryggers.beer/images/cerisier/cerisier-0001.jpg"
+    "//tegnerbryggers.beer/images/justadate/190209_006-min.jpg"
 ]
 ---
 

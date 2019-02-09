@@ -12,6 +12,8 @@ untappd: "https://untappd.com/b/tegner-bryggers-ukendt-territorium/2943613"
 images: [
 "//tegnerbryggers.beer/images/ukendtterritorium/ukendt-0000-min.jpg",
 "//tegnerbryggers.beer/images/ukendtterritorium/ukendt-0001-min.jpg",
+"//tegnerbryggers.beer/images/ukendtterritorium/ukendt-0002.jpg",
+"//tegnerbryggers.beer/images/ukendtterritorium/ukendt-0003.jpg",
 ]
 ---
 

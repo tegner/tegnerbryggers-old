@@ -12,7 +12,9 @@ untappd: ""
 images: [
 "//tegnerbryggers.beer/images/cerisierII/180917_008-min.jpg",
 "//tegnerbryggers.beer/images/cerisierII/20180917_183617-min.jpg",
-"//tegnerbryggers.beer/images/cerisierII/20180918_081124-min.jpg"
+"//tegnerbryggers.beer/images/cerisierII/20180918_081124-min.jpg",
+"//tegnerbryggers.beer/images/cerisierII/190209_008-min.jpg",
+"//tegnerbryggers.beer/images/cerisierII/190209_011-min.jpg"
 ]
 ---
 
