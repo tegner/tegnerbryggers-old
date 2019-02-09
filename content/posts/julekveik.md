@@ -43,5 +43,9 @@ Al tørhumlen kom i samtidig med gæren.
 | 10 min. | 20 g. Lemon Drop (4.80%) |
 | 5 min. | 20 g. Lemon Drop (4.80%)  |
 | 5 min. | 20 g. Eurika! (18%)       |
-| 15 dage | 40 g. Citra (13.70%)     |
-| 15 dage | 40 g. Eurika! (18%)      |
+
+### Tørhumle
+
+| Tid     | Mængde og Humle      |
+| 15 dage | 40 g. Citra (13.70%) |
+| 15 dage | 40 g. Eurika! (18%)  |
